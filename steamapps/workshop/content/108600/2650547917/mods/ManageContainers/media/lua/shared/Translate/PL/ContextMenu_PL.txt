@@ -1,0 +1,4 @@
+ContextMenu_PL = {
+	ContextMenu_Put_Assigned_Containers= "Wsadź do odpowiedniego pojemnika",
+	ContextMenu_Configure_Container= "Konfiguruj pojemnik",
+}

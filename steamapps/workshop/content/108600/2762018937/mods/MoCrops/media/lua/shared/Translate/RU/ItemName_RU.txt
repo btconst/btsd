@@ -1,0 +1,29 @@
+ ItemName_EN = {
+    -- seed names
+    MCM.Avocadoseed = "Семена авокадо",
+    MCM.AvocadoBagSeed = "Пачка семян авокадо",
+
+    MCM.Pepperseed = "Семена перца",
+    MCM.PepperBagSeed = "Пачка семян перца",
+
+    MCM.Cornseed = "Семена кукурузы",
+    MCM.CornBagSeed = "Пачка семян кукурузы",
+
+    MCM.Eggplantseed = "Семена баклажана",
+    MCM.EggplantBagSeed = "Пачка семян баклажана",
+
+    MCM.Leekseed = "Семена лука-порея",
+    MCM.LeekBagSeed = "Пачка семян лука-порея",
+
+    MCM.Lettuceseed = "Семена салата-латук",
+    MCM.LettuceBagSeed = "Пачка семян салата-латук",
+
+    MCM.Onionseed = "Семена лука",
+    MCM.OnionBagSeed = "Пачка семян лука",
+
+    MCM.Watermelonseed = "Семена арбуза",
+    MCM.WatermelonBagSeed = "Пачка семян арбуза",
+
+    MCM.Zucchiniseed = "Семена цукини",
+    MCM.ZucchiniBagSeed = "Пачка семян цукини",
+ }

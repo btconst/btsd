@@ -1,0 +1,355 @@
+module MCM {
+    imports {
+        Base
+    }
+
+/**********************************************************************/
+/******************************Seeds***************************************/
+/**********************************************************************/
+
+	item Avocadoseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Avocado Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+    item Pepperseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Pepper Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Cornseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Corn Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Eggplantseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Eggplant Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Leekseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Leek Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Lettuceseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Lettuce Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Onionseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Onion Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Watermelonseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Watermelon Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+	item Zucchiniseed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Zucchini Seeds,
+		Icon				=		TZ_CabbageLettuceSeeds,
+		Weight				=		0.009,
+		SurvivalGear = TRUE,
+		WorldStaticModel = Seeds_Ground,
+	}
+
+
+
+
+/**********************************************************************/
+/***************************Seed Packages************************************/
+/**********************************************************************/
+
+    item AvocadoBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Avocado Seeds Packet,
+		Icon				=		SeedPacketAvocado,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = AvocadoSeedBag_Ground,
+	}
+	
+	item PepperBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Pepper Seeds Packet,
+		Icon				=		SeedPacketPepper,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = PepperSeedBag_Ground,
+	}
+
+	item CornBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Corn Seeds Packet,
+		Icon				=		SeedPacketCorn,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = CornSeedBag_Ground,
+	}
+
+	item EggplantBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Eggplant Seeds Packet,
+		Icon				=		SeedPacketEggplant,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = EggplantSeedBag_Ground,
+	}
+
+	item LeekBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Leek Seeds Packet,
+		Icon				=		SeedPacketLeek,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = LeekSeedBag_Ground,
+	}
+
+	item LettuceBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Lettuce Seeds Packet,
+		Icon				=		SeedPacketLettuce,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = LettuceSeedBag_Ground,
+	}
+
+	item OnionBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Onion Seeds Packet,
+		Icon				=		SeedPacketOnion,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = OnionSeedBag_Ground,
+	}
+
+	item WatermelonBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Watermelon Seeds Packet,
+		Icon				=		SeedPacketWatermelon,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = WatermelonSeedBag_Ground,
+	}
+
+	item ZucchiniBagSeed {
+	    DisplayCategory = Gardening,
+		Type				=		Normal,
+		DisplayName			=		Zucchini Seeds Packet,
+		Icon				=		SeedPacketZucchini,
+		Weight				=		0.1,
+		SurvivalGear = TRUE,
+		WorldStaticModel = ZucchiniSeedBag_Ground,
+	}
+
+
+
+/*************************~~~~~~~~~~~~~~~~~****************************/
+/******************************Recipes*************************************/
+/*************************~~~~~~~~~~~~~~~~~****************************/
+
+    recipe Open Packet of Avocado Seeds {
+		AvocadoBagSeed,
+  
+        Result:Avocadoseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Avocado Seeds in Packet {
+        Avocadoseed=50,
+
+        Result:AvocadoBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+	
+	recipe Open Packet of Pepper Seeds {
+		PepperBagSeed,
+  
+        Result:Pepperseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Pepper Seeds in Packet {
+        Pepperseed=50,
+
+        Result:PepperBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Corn Seeds {
+		CornBagSeed,
+  
+        Result:Cornseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Corn Seeds in Packet {
+        Cornseed=50,
+
+        Result:CornBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Eggplant Seeds {
+		EggplantBagSeed,
+  
+        Result:Eggplantseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Eggplant Seeds in Packet {
+        Eggplantseed=50,
+
+        Result:EggplantBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Leek Seeds {
+		LeekBagSeed,
+  
+        Result:Leekseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Leek Seeds in Packet {
+        Leekseed=50,
+
+        Result:LeekBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Lettuce Seeds {
+		LettuceBagSeed,
+  
+        Result:Lettuceseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Lettuce Seeds in Packet {
+        Lettuceseed=50,
+
+        Result:LettuceBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Onion Seeds {
+		OnionBagSeed,
+  
+        Result:Onionseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Onion Seeds in Packet {
+        Onionseed=50,
+
+        Result:OnionBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Watermelon Seeds {
+		WatermelonBagSeed,
+  
+        Result:Watermelonseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Watermelon Seeds in Packet {
+        Watermelonseed=50,
+
+        Result:WatermelonBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+
+	recipe Open Packet of Zucchini Seeds {
+		ZucchiniBagSeed,
+  
+        Result:Zucchiniseed=50,
+        Time:20.0,
+        Category:Farming,
+        Sound:OpenSeedPacket,
+	}
+
+    recipe Put Zucchini Seeds in Packet {
+        Zucchiniseed=50,
+
+        Result:ZucchiniBagSeed,
+        Time:10.0,
+        Category:Farming,
+    }
+}
