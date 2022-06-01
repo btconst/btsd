@@ -1,5 +1,0 @@
-UI_EN = {
-	UI_ContextMenu_WringClothing_Option = "Wring clothing"
-	UI_ContextMenu_WringClothing_Tooltip = "Remove excess water from clothing"
-}
-

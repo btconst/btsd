@@ -1,6 +1,0 @@
-UI_EN = {
-    UI_trait_Myopic = "Myopic",
-    UI_trait_MyopicDesc = "Requires Myopia Glasses to see properly.<br>Vision blurred beyond two squares without glasses.<br>Cannot read nor forage without glasses.",
-    UI_trait_Hyperopic = "Hyperopic",
-    UI_trait_HyperopicDesc = "Requires Hyperopia Glasses to see properly.<br>Without glasses, the more you zoom-in the more your vision gets blurred.<br>Cannot read nor forage without glasses.",
-}
