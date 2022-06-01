@@ -8,6 +8,8 @@ script_path = input("Full install script path: ")
 if not os.path.isfile(script_path):
     if not os.path.isfile("scripts/" + script_path):
         print("Invalid script path")
+        input("")
+        exit(0)
     else:
         script_path = "scripts/" + script_path
         
@@ -45,6 +47,8 @@ fldrs = os.listdir(main)
 print("\n///////////")
 print("///////////\n")
 
+os.remove('a.TEMP')
+
 for f in fldrs:
     source_dir = os.listdir(main)[0]
     target_dir = mods_folder
@@ -53,13 +57,12 @@ for f in fldrs:
     for folder in transfer_folders:
         file_path = main+f+'/'+folder
         if os.path.isdir(file_path):
-            break
-
-    for ffile in os.listdir(file_path):
-        percent = format(float((((float(fldrs.index(f)+1))/float((len(fldrs))))*100)), ".2f")
-        print("[%s%%] Installing %s..." % (percent, ffile))
-    shutil.copytree(file_path,target_dir, dirs_exist_ok=True)
+            for ffile in os.listdir(file_path):
+                percent = format(float((((float(fldrs.index(f)+1))/float((len(fldrs))))*100)), ".2f")
+                if(os.path.isdir(file_path+'/'+ffile)):
+                    print("[%s%%] Installing %s..." % (percent, ffile))
+                shutil.copytree(file_path,target_dir, dirs_exist_ok=True)
     pass
-print("Done! %d mods installed" % len(fldrs))
+print("Done! %d mod(s) installed" % len(fldrs))
 fp.close()
 input("")
