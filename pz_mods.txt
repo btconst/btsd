@@ -1,0 +1,96 @@
+id=108600
+copy=mods
+install=@user/Zomboid/mods
+
+2618213077    # '82 oshkosh m911 + millitary semi-trailers
+2529746725    # easy config chucked
+2216760107    # profession framework b41 patch
+2714850307    # horde night
+2799152995    # '78 am general m35a2
+2658619264    # scrap armor
+2772575623    # '59 cadillac miller-meteor + ecto-1
+2730158335    # project elevator
+2366717227    # swap it
+2469388752    # '85 mercedes benz w123
+2464581798    # irrigation pipes for farming
+2728257015    # agrotsar farming company
+2423906082    # bushcraft gear tools
+2432621382    # bushcraft gear rare weapons
+2802932924    # immersive solar arrays patch
+2623458493    # immersive solar arrays
+2696986935    # barricaded world
+2713921292    # undead survivor
+2680473910    # the workshop
+2125659488    # scrap guns
+2122265954    # scrap weapons
+1896907770    # filibuster rhymes' used cars
+2478247379    # '67 cadillac gage commando
+2651128766    # fingers
+2812828771    # fencing kits
+2335368829    # authenticZ
+2710167561    # map legend ui
+2734705913    # map symbol size slider
+2804531012    # draw on the map
+2698765788    # myopia and hyperopia (for our boy alan)
+1911132112    # pillow's random spawns
+1969456967    # improved build menu
+2814165668    # alternative crosshair
+2812326159    # improved jackets
+566115016     # item tweaker
+2313387159    # better sorting
+2169435993    # mod options
+2619072426    # weapon condition indicator
+2659216714    # just throw them out the window
+2256623447    # firearms b41
+2650547917    # manage containers
+2648779556    # true actions dancing
+2732662310    # improved hair menu
+2625625421    # containers
+2704811006    # snow is water
+2392676812    # antibodies
+2761200458    # yaki's hair salon
+2447729538    # fluffy hair
+2769706949    # tidy up meister
+2711057211    # clean dirt
+2487022075    # true actions 2
+2657661246    # rain wash
+2732804047    # show players on map
+2651600962    # moar can openers
+2594865484    # better hand wash
+2631149521    # eggon's have i found this book?
+2728416041    # crops never rot
+2788428718    # vanilla vehicle enhancer
+2688884240    # jump through windows
+2699828474    # rebalanced prop moving
+2673713236    # sleep on it
+2696083206    # wring out clothing
+2794941460    # blowtorch gates
+2760742937    # working gas mask
+2780594299    # refillable lighters
+2759027882    # make paths
+2793164190    # vanilla vehicles spawn extended
+2807001835    # panic counters tiredness
+2781774668    # happily never aftaa
+2754163350    # expanded character creation
+2402057349    # gun suicide
+2810800927    # item tweaker extra clothing
+2617575303    # eggon's modding utils
+2694448564    # mod manager
+2392709985    # tsar's lib
+2783635181    # smoking joe's coolers
+2592358528    # autotsar tuning atelier - bus
+2368058459    # better lockpicking
+2478768005    # zupercart
+2778576730    # autotsar motorclub
+2717145847    # higher occupation skills
+2729417044    # kayli evolution mod
+2282429356    # autotsar trailers
+2811232708    # derumba van
+2516123638    # '88 volkswagen golf mk2
+2752895143    # working treadmill
+2781963981    # rewarding night combat
+2732639855    # water trailer
+2759339330    # w900 semi trucks
+2566953935    # '86 oshkosh p19a + millitary trailers
+2732594572    # rotatorslib
+2790397567    # webuildz: barricade

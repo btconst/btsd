@@ -1,0 +1,343 @@
+module Base
+{
+
+	/*******************Legacy Tires ************************/  
+
+	item V100Tire2
+    {
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	RunFlat Tire,
+        Icon	=	runflatTire,
+        MaxCapacity = 35,
+        ChanceToSpawnDamaged = 20,
+        WheelFriction = 1.6,
+        ConditionMax = 100,
+        ConditionLowerStandard = 0.10,
+        ConditionLowerOffroad = 0.12,
+        MechanicsItem = TRUE,
+	    WorldStaticModel = RunFlatWI,
+	    Tooltip = Tooltip_item_runflats,
+    }
+
+	/************************ Tires ************************/  
+
+	item V103Tire2
+    {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	14.0,
+        Type	=	Normal,
+        DisplayName	=	M35A2 RunFlat Tire,
+        Icon	=	tireM35A2,
+        MaxCapacity = 35,
+        ChanceToSpawnDamaged = 0,
+        WheelFriction = 1.6,
+        ConditionMax = 100,
+        ConditionLowerStandard = 0.10,
+        ConditionLowerOffroad = 0.12,
+        MechanicsItem = TRUE,
+	    WorldStaticModel = m35_tireWI,
+	    Tooltip = Tooltip_item_M35A2runflats,
+    }
+
+    item V103Axle2
+    {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   30.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 RunFlat 4 Tire Axle,
+        Icon    =   axleM35A2,
+        MaxCapacity = 35,
+        ChanceToSpawnDamaged = 0,
+        WheelFriction = 1.6,
+        ConditionMax = 100,
+        ConditionLowerStandard = 0.10,
+        ConditionLowerOffroad = 0.12,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_runFlatAxleWI,
+        Tooltip = Tooltip_item_M35A2axleflats,
+    }
+
+	/************************ Trunks ************************/
+
+	item M35A2Trunk2
+    {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Trunk,
+        Icon	=	na,
+        MaxCapacity = 655,
+        ConditionAffectsCapacity = false,
+        ConditionMax = 100,
+        ChanceToSpawnDamaged = 20,
+        MechanicsItem = TRUE,
+    }
+
+	item M35A2Extra2
+    {
+        Weight	=	1.00,
+        Type	=	Normal,
+        DisplayName	=	Extra,
+        Icon	=	na,
+        MaxCapacity = 1,
+        ConditionAffectsCapacity = false,
+        ConditionMax = 100,
+        ChanceToSpawnDamaged = 0,
+        MechanicsItem = TRUE,
+    }
+
+    /************************ Muffler ************************/
+
+      item M35A2Muffler1_Item
+      {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   4.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Muffler,
+        Icon    =   muffM35A2,
+        EngineLoudness = 100,
+        ConditionMax = 100,
+        ConditionLowerStandard = 0.02,
+        ConditionLowerOffroad = 0.04,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_MufflerWI,
+        Tooltip = Tooltip_item_M35A2Muffler1,
+      }
+
+
+    /************************ Hood ************************/
+
+    item M35A2EngineDoor2
+    {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	M35A2 Hood,
+        Icon	=	hoodM35A2,
+        ChanceToSpawnDamaged = 25,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_hoodWI,
+    }
+
+     /************************ Butt stuff ************************/
+
+	item M35A2Tarp1_Item
+      {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	25.0,
+        Type	=	Normal,
+        DisplayName	=	M35A2 Stake Construction,
+        Icon	=	constM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_constWI,
+	   Tooltip = Tooltip_item_M35A2Tarp2,
+      }
+
+      item M35A2Tarp2_Item
+      {
+       DisplayCategory = VehicleMaintenance,
+        Weight  =   30.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Tarp Cover,
+        Icon    =   tarpM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_tarpWI,
+       Tooltip = Tooltip_item_M35A2Sidewalls1,
+      }
+
+      item M35A2Tarp3_Item
+      {
+       DisplayCategory = VehicleMaintenance,
+        Weight  =   20.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Stake Sidewalls,
+        Icon    =   stakeM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_stakeWI,
+       Tooltip = Tooltip_item_M35A2Sidewalls3,
+      }
+
+    /************************ Trunk Lid ************************/
+
+    item M35A2tailgate2
+    {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   17.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Tailgate,
+        Icon    =   tailgateM35A2,
+        ChanceToSpawnDamaged = 25,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_tailgateWI,
+    }
+
+    /************************ Seats ************************/
+
+     item M35A2CarSeat2
+     {
+	   DisplayCategory = VehicleMaintenance,
+         Weight	=	15.0,
+         Type	=	Normal,
+         DisplayName	=	M35A2 Seat,
+         Icon	=	seatM35A2,
+         MaxCapacity = 20,
+         ChanceToSpawnDamaged = 20,
+         ConditionMax = 100,
+         MechanicsItem = TRUE,
+         WorldStaticModel = m35_seatWI,
+     }
+
+     /************************ Bumpers ************************/
+
+	item M35A2Bumper1_Item
+      {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	M35A2 Bumper,
+        Icon	=	bumperM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_bumperWI,
+	   Tooltip = Tooltip_item_M35A2Bumper1,
+      }
+
+      item M35A2Grille1_Item
+      {
+       DisplayCategory = VehicleMaintenance,
+        Weight  =   4.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Grille,
+        Icon    =   grilleM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_grilleWI,
+       Tooltip = Tooltip_item_M35A2Grille1,
+      }
+
+    /************************ Cab Covers ************************/
+
+    item M35A2HardCover1_Item
+      {
+       DisplayCategory = VehicleMaintenance,
+        Weight  =   20.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Cab Hard Cover,
+        Icon    =   hardcabM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_hardcoverWI,
+       Tooltip = Tooltip_item_M35A2HardCover1,
+      }
+
+      item M35A2SoftCover2_Item
+      {
+          DisplayCategory = VehicleMaintenance,
+        Weight  =   10.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Cab Soft Cover,
+        Icon    =   cabsoftM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_cabsoftWI,
+         Tooltip = Tooltip_item_M35A2SoftCover2,
+      }
+
+
+     /************************ Windows ************************/
+
+	item M35A2Windshield2
+    {
+	   DisplayCategory = VehicleMaintenance,
+        Weight	=	8.0,
+        Type	=	Normal,
+        DisplayName	=	M35A2 Windshield,
+        Icon	=	windM35A2,
+        ChanceToSpawnDamaged = 20,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_windshieldWI,
+	   Tooltip = Tooltip_item_M35A2Windshield2,
+    }
+
+    item M35A2SideWindow2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight  =   4.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Side Window,
+        Icon    =   wind_sideM35A2,
+        ChanceToSpawnDamaged = 20,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_windowWI,
+       Tooltip = Tooltip_item_M35A2sideWindow2,
+    }
+
+    /************************ Doors ************************/
+
+    item M35A2Door2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight  = 15.0,
+        Type  = Normal,
+        DisplayName = M35A2 Door,
+        Icon  = doorM35A2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_doorWI,
+    }
+
+    /************************ Armor ************************/
+
+    item M35A2WindshieldArmor1_Item
+    {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   15.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Windshield Armor ,
+        Icon    =   wind_aM35A2,
+        ChanceToSpawnDamaged = 20,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_windshield_aWI,
+        Tooltip = Tooltip_item_M35A2WindshieldArmor1,
+    }
+
+    item M35A2DoorArmor1_Item
+    {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   10.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Door Armor ,
+        Icon    =   door_aM35A2,
+        ChanceToSpawnDamaged = 20,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = m35_door_aWI,
+        Tooltip = Tooltip_item_M35A2DoorArmor1,
+    }
+
+    /************************ Mudflaps ************************/
+
+    item M35A2Mudflaps1_Item
+    {
+    DisplayCategory = VehicleMaintenance,
+        Weight  =   12.0,
+        Type    =   Normal,
+        DisplayName =   M35A2 Mudflaps,
+        Icon    =   mudflapsM35A2,
+        ConditionMax = 100,
+        ChanceToSpawnDamaged = 20,
+        MechanicsItem = TRUE,
+    WorldStaticModel = m35_MudflapsWI,
+    Tooltip = Tooltip_item_M35A2Mudflaps1,
+    }
+
+}

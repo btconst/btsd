@@ -1,0 +1,4 @@
+ItemName_EN = {
+    ItemName_Base.Glasses_Normal = "Myopia Glasses",
+    ItemName_Base.Glasses_Reading = "Hyperopia Glasses"
+}

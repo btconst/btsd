@@ -1,0 +1,8 @@
+authors=Lexx
+name=Water Semi-Trailer
+poster=preview.png
+icon=icon.png
+id=rWaterTrailerSemi
+require=rWaterTrailer,82oshkoshM911
+description=<RGB:0.2,1,0.3>Adds KI5's fuel tanker as a new water tanker to the game. <LINE><LINE><RGB:0.8,0.2,0.2>IMPORTANT: Requires KI5's '82 Oshkosh M911 + Military Semi-Trailers to work!
+url=https://rotators.net/

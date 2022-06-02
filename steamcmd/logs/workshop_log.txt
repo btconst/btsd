@@ -1,0 +1,1059 @@
+
+
+[2022-06-02 06:37:41] Loading workshop items for 0 installed apps for user [a:1:1109845053]:
+[2022-06-02 06:37:55] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2022-06-02 06:37:55] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 06:37:55] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 06:37:55] [AppID 108600] Detected workshop change : changed cached item 2760742937, new manifest 2916217299341165043
+[2022-06-02 06:37:57] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 06:37:57] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 06:37:57] [AppID 108600] Updating workshop item details failed with Access Denied
+
+
+[2022-06-02 07:04:04] Loading workshop items for 0 installed apps for user [a:1:2200754472]:
+[2022-06-02 07:04:08] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2022-06-02 07:04:08] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:04:08] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:04:09] [AppID 108600] Detected workshop change : changed cached item 2392709985, new manifest 7897678283560944322
+[2022-06-02 07:04:12] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:04:12] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:04:12] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:05:27] Loading workshop items for 0 installed apps for user [a:1:1535314949]:
+[2022-06-02 07:05:29] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:05:29] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:05:29] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:05:29] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:05:29] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:06:09] Loading workshop items for 0 installed apps for user [a:1:2605091878]:
+[2022-06-02 07:06:11] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:06:11] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:06:11] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:06:11] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:06:11] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:06:22] Loading workshop items for 0 installed apps for user [a:1:2415841397]:
+[2022-06-02 07:06:23] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:06:23] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:06:23] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:06:24] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:06:24] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:06:40] Loading workshop items for 0 installed apps for user [a:1:2461745500]:
+[2022-06-02 07:06:41] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:06:41] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:06:41] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:06:42] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:06:42] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:08:16] Loading workshop items for 0 installed apps for user [a:1:2687088680]:
+[2022-06-02 07:08:17] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:08:17] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:08:17] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:08:18] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:08:18] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:09:55] Loading workshop items for 0 installed apps for user [a:1:2216251780]:
+[2022-06-02 07:09:56] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:09:56] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:09:56] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:09:56] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:09:56] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:10:22] Loading workshop items for 0 installed apps for user [a:1:2374914239]:
+[2022-06-02 07:10:24] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:10:24] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:10:24] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:10:24] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:10:24] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:10:50] Loading workshop items for 0 installed apps for user [a:1:900701374]:
+[2022-06-02 07:10:52] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:10:52] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:10:52] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:10:52] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:10:52] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:11:18] Loading workshop items for 0 installed apps for user [a:1:2461847647]:
+[2022-06-02 07:11:19] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:11:19] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:11:19] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:11:19] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:11:19] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:11:50] Loading workshop items for 0 installed apps for user [a:1:2728119711]:
+[2022-06-02 07:11:51] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:11:51] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:11:52] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:11:52] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:11:52] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:12:36] Loading workshop items for 0 installed apps for user [a:1:1059387504]:
+[2022-06-02 07:12:37] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:12:37] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:12:37] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:12:37] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:12:37] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:12:50] Loading workshop items for 0 installed apps for user [a:1:752330031]:
+[2022-06-02 07:12:52] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:12:52] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:12:52] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:12:52] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:12:52] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 07:16:02] Loading workshop items for 0 installed apps for user [a:1:2595059967]:
+[2022-06-02 07:16:03] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:16:03] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:16:03] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:16:03] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:16:03] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:16:04] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:16:04] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:16:04] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:16:04] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:16:04] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:16:56] Loading workshop items for 0 installed apps for user [a:1:2702593237]:
+[2022-06-02 07:16:58] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:16:58] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:16:58] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:16:58] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:16:58] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:16:58] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:16:58] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:16:59] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:16:59] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:16:59] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:17:24] Loading workshop items for 0 installed apps for user [a:1:1146585382]:
+[2022-06-02 07:17:25] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:17:25] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:17:25] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:17:25] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:17:25] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:17:26] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:17:26] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:17:26] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:17:26] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:17:26] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:17:45] Loading workshop items for 0 installed apps for user [a:1:2712838490]:
+[2022-06-02 07:17:46] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:17:46] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:17:46] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:17:46] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:17:46] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:17:47] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:17:47] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:17:47] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:17:47] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:17:47] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:18:08] Loading workshop items for 0 installed apps for user [a:1:2871477488]:
+[2022-06-02 07:18:10] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:18:10] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:18:10] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:18:10] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:18:10] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:18:11] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:18:11] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:18:11] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:18:11] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:18:11] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:21:37] Loading workshop items for 0 installed apps for user [a:1:1673869695]:
+[2022-06-02 07:21:39] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:21:39] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:21:39] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:21:39] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:21:39] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:21:39] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:21:40] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:21:40] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:21:40] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:21:40] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:21:54] Loading workshop items for 0 installed apps for user [a:1:1494711503]:
+[2022-06-02 07:21:55] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:21:55] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:21:55] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:21:56] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:21:56] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:21:56] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:21:56] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:21:56] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:21:56] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:21:57] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:22:25] Loading workshop items for 0 installed apps for user [a:1:1458870384]:
+[2022-06-02 07:22:26] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:22:26] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:22:26] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:22:27] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:22:27] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:27] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:22:27] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:22:28] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:22:28] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:28] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:22:35] Loading workshop items for 0 installed apps for user [a:1:711596348]:
+[2022-06-02 07:22:37] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:22:37] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:22:37] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:22:37] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:22:37] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:37] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:22:37] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:22:38] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:22:38] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:38] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 07:22:45] Loading workshop items for 0 installed apps for user [a:1:1223465108]:
+[2022-06-02 07:22:47] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 07:22:47] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 07:22:47] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 07:22:47] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 07:22:47] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:48] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 07:22:48] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 07:22:48] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 07:22:48] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 07:22:48] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 09:27:52] Loading workshop items for 0 installed apps for user [a:1:2025270333]:
+
+
+[2022-06-02 09:28:06] Loading workshop items for 0 installed apps for user [a:1:1416112231]:
+
+
+[2022-06-02 09:28:45] Loading workshop items for 0 installed apps for user [a:1:592083223]:
+[2022-06-02 09:28:46] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 09:28:46] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 09:28:46] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 09:28:49] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 09:28:49] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 09:28:49] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 09:30:05] Loading workshop items for 0 installed apps for user [a:1:653486091]:
+
+
+[2022-06-02 09:32:47] Loading workshop items for 0 installed apps for user [a:1:520420693]:
+
+
+[2022-06-02 09:32:58] Loading workshop items for 0 installed apps for user [a:1:1303656859]:
+
+
+[2022-06-02 09:33:35] Loading workshop items for 0 installed apps for user [a:1:213455933]:
+
+
+[2022-06-02 09:34:27] Loading workshop items for 0 installed apps for user [a:1:704736602]:
+
+
+[2022-06-02 09:34:45] Loading workshop items for 0 installed apps for user [a:1:2015143029]:
+
+
+[2022-06-02 09:36:07] Loading workshop items for 0 installed apps for user [a:1:873775477]:
+
+
+[2022-06-02 09:36:26] Loading workshop items for 0 installed apps for user [a:1:633177093]:
+
+
+[2022-06-02 09:36:44] Loading workshop items for 0 installed apps for user [a:1:2276278445]:
+
+
+[2022-06-02 09:36:59] Loading workshop items for 0 installed apps for user [a:1:1687679001]:
+
+
+[2022-06-02 09:37:16] Loading workshop items for 0 installed apps for user [a:1:2209710350]:
+
+
+[2022-06-02 09:37:36] Loading workshop items for 0 installed apps for user [a:1:515382453]:
+
+
+[2022-06-02 09:38:30] Loading workshop items for 0 installed apps for user [a:1:1467494511]:
+
+
+[2022-06-02 09:38:49] Loading workshop items for 0 installed apps for user [a:1:1912910948]:
+
+
+[2022-06-02 09:40:40] Loading workshop items for 0 installed apps for user [a:1:1477873721]:
+
+
+[2022-06-02 09:41:47] Loading workshop items for 0 installed apps for user [a:1:582077802]:
+
+
+[2022-06-02 09:42:18] Loading workshop items for 0 installed apps for user [a:1:372287901]:
+
+
+[2022-06-02 09:43:02] Loading workshop items for 0 installed apps for user [a:1:1651969260]:
+[2022-06-02 09:43:04] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 09:43:04] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 09:43:04] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 09:43:05] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 09:43:05] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 09:43:05] [AppID 108600] Updating workshop item details failed with Access Denied
+[2022-06-02 09:43:05] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 09:43:05] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 09:43:07] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 09:43:07] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 09:43:21] Loading workshop items for 0 installed apps for user [a:1:198331556]:
+
+
+[2022-06-02 09:43:37] Loading workshop items for 0 installed apps for user [a:1:1544396075]:
+[2022-06-02 09:43:38] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 09:43:38] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 09:43:38] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 09:43:40] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 09:43:40] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 09:43:40] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 09:53:06] Loading workshop items for 0 installed apps for user [a:1:2317611170]:
+
+
+[2022-06-02 09:53:29] Loading workshop items for 0 installed apps for user [a:1:1928577080]:
+[2022-06-02 09:53:30] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 09:53:30] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 09:53:30] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 09:53:32] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 09:53:32] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 09:53:32] [AppID 108600] Updating workshop item details failed with Access Denied
+[2022-06-02 09:53:32] [AppID 108600] Download item 2392709985 requested by app
+[2022-06-02 09:53:32] [AppID 108600] Starting Workshop download job (requested item 2392709985 )
+[2022-06-02 09:53:34] [AppID 108600] Download item 2392709985 result : OK
+[2022-06-02 09:53:34] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 09:53:50] Loading workshop items for 0 installed apps for user [a:1:1222216045]:
+
+
+[2022-06-02 10:05:47] Loading workshop items for 0 installed apps for user [a:1:1140561941]:
+
+
+[2022-06-02 10:06:12] Loading workshop items for 0 installed apps for user [a:1:1319740696]:
+
+
+[2022-06-02 10:09:52] Loading workshop items for 0 installed apps for user [a:1:413774062]:
+
+
+[2022-06-02 10:16:33] Loading workshop items for 0 installed apps for user [a:1:1478678829]:
+[2022-06-02 10:16:34] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (2 installed, 2 needed)
+[2022-06-02 10:16:34] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:16:34] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:16:35] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:16:35] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 10:16:35] [AppID 108600] Download item 2752895143 requested by app
+[2022-06-02 10:16:35] [AppID 108600] Starting Workshop download job (requested item 2752895143 )
+[2022-06-02 10:16:35] [AppID 108600] Detected workshop change : changed cached item 2752895143, new manifest 8240945920460698661
+[2022-06-02 10:16:38] [AppID 108600] Download item 2752895143 result : OK
+[2022-06-02 10:16:38] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 10:16:38] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 10:18:49] Loading workshop items for 0 installed apps for user [a:1:1079379368]:
+[2022-06-02 10:18:50] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:18:50] [AppID 108600] Download item 2752895143 requested by app
+[2022-06-02 10:18:50] [AppID 108600] Starting Workshop download job (requested item 2752895143 )
+[2022-06-02 10:18:50] [AppID 108600] Download item 2752895143 result : OK
+[2022-06-02 10:18:50] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 10:18:51] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:18:51] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:18:51] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:18:51] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 10:18:51] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2022-06-02 10:19:50] Loading workshop items for 0 installed apps for user [a:1:1652826519]:
+[2022-06-02 10:19:52] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:19:52] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:19:52] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:19:52] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:19:52] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:21:54] Loading workshop items for 0 installed apps for user [a:1:2702001467]:
+[2022-06-02 10:21:55] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:21:55] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:21:55] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:21:55] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:21:55] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:24:39] Loading workshop items for 0 installed apps for user [a:1:2384887947]:
+[2022-06-02 10:24:40] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:24:40] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:24:40] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:24:41] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:24:41] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:25:08] Loading workshop items for 0 installed apps for user [a:1:434595980]:
+[2022-06-02 10:25:09] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:25:09] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:25:09] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:25:10] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:25:10] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:25:44] Loading workshop items for 0 installed apps for user [a:1:2456490057]:
+[2022-06-02 10:25:45] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:25:45] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:25:45] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:25:45] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:25:45] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:26:31] Loading workshop items for 0 installed apps for user [a:1:1760378012]:
+[2022-06-02 10:26:32] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:26:32] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:26:33] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:26:33] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:26:33] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:27:49] Loading workshop items for 0 installed apps for user [a:1:961870042]:
+[2022-06-02 10:27:51] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:27:51] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:27:51] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:27:51] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:27:51] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:29:27] Loading workshop items for 0 installed apps for user [a:1:1535173767]:
+[2022-06-02 10:29:29] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:29:29] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:29:29] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:29:29] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:29:29] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:29:49] Loading workshop items for 0 installed apps for user [a:1:1197401355]:
+[2022-06-02 10:29:50] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:29:50] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:29:50] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:29:51] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:29:51] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:30:10] Loading workshop items for 0 installed apps for user [a:1:2170018101]:
+[2022-06-02 10:30:12] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:30:12] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:30:12] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:30:12] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:30:12] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:30:31] Loading workshop items for 0 installed apps for user [a:1:624168263]:
+[2022-06-02 10:30:33] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:30:33] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:30:33] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:30:33] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:30:33] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:31:09] Loading workshop items for 0 installed apps for user [a:1:1309980878]:
+[2022-06-02 10:31:11] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:31:11] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:31:11] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:31:11] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:31:11] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 10:32:06] Loading workshop items for 0 installed apps for user [a:1:1110455343]:
+[2022-06-02 10:32:07] [AppID 108600] Loaded workshop items in "c:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 10:32:07] [AppID 108600] Download item 2760742937 requested by app
+[2022-06-02 10:32:07] [AppID 108600] Starting Workshop download job (requested item 2760742937 )
+[2022-06-02 10:32:07] [AppID 108600] Download item 2760742937 result : OK
+[2022-06-02 10:32:07] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 14:06:48] Loading workshop items for 0 installed apps for user [a:1:1853721666]:
+[2022-06-02 14:06:50] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (3 installed, 3 needed)
+[2022-06-02 14:06:50] [AppID 108600] Download item 2651128766 requested by app
+[2022-06-02 14:06:50] [AppID 108600] Starting Workshop download job (requested item 2651128766 )
+[2022-06-02 14:06:50] [AppID 108600] Detected workshop change : changed cached item 2651128766, new manifest 5423316297237190444
+[2022-06-02 14:06:52] [AppID 108600] Download item 2651128766 result : OK
+[2022-06-02 14:06:52] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:06:52] [AppID 108600] Updating workshop item details failed with Access Denied
+[2022-06-02 14:06:52] [AppID 108600] Download item 2812828771 requested by app
+[2022-06-02 14:06:52] [AppID 108600] Starting Workshop download job (requested item 2812828771 )
+[2022-06-02 14:06:53] [AppID 108600] Detected workshop change : changed cached item 2812828771, new manifest 7355966390007134641
+[2022-06-02 14:06:54] [AppID 108600] Download item 2812828771 result : OK
+[2022-06-02 14:06:54] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:06:55] [AppID 108600] Download item 2335368829 requested by app
+[2022-06-02 14:06:55] [AppID 108600] Starting Workshop download job (requested item 2335368829 )
+[2022-06-02 14:06:55] [AppID 108600] Detected workshop change : changed cached item 2335368829, new manifest 7855519468209067044
+[2022-06-02 14:07:20] [AppID 108600] Download item 2335368829 result : OK
+[2022-06-02 14:07:20] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:21] [AppID 108600] Download item 2710167561 requested by app
+[2022-06-02 14:07:21] [AppID 108600] Starting Workshop download job (requested item 2710167561 )
+[2022-06-02 14:07:21] [AppID 108600] Detected workshop change : changed cached item 2710167561, new manifest 5938909813285989469
+[2022-06-02 14:07:24] [AppID 108600] Download item 2710167561 result : OK
+[2022-06-02 14:07:24] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:25] [AppID 108600] Download item 2734705913 requested by app
+[2022-06-02 14:07:25] [AppID 108600] Starting Workshop download job (requested item 2734705913 )
+[2022-06-02 14:07:25] [AppID 108600] Detected workshop change : changed cached item 2734705913, new manifest 3170942990460098149
+[2022-06-02 14:07:27] [AppID 108600] Download item 2734705913 result : OK
+[2022-06-02 14:07:27] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:28] [AppID 108600] Download item 2804531012 requested by app
+[2022-06-02 14:07:28] [AppID 108600] Starting Workshop download job (requested item 2804531012 )
+[2022-06-02 14:07:28] [AppID 108600] Detected workshop change : changed cached item 2804531012, new manifest 1546866700864199019
+[2022-06-02 14:07:29] [AppID 108600] Download item 2804531012 result : OK
+[2022-06-02 14:07:29] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:30] [AppID 108600] Download item 2698765788 requested by app
+[2022-06-02 14:07:30] [AppID 108600] Starting Workshop download job (requested item 2698765788 )
+[2022-06-02 14:07:30] [AppID 108600] Detected workshop change : changed cached item 2698765788, new manifest 613403576283301654
+[2022-06-02 14:07:31] [AppID 108600] Download item 2698765788 result : OK
+[2022-06-02 14:07:31] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:32] [AppID 108600] Download item 1911132112 requested by app
+[2022-06-02 14:07:32] [AppID 108600] Starting Workshop download job (requested item 1911132112 )
+[2022-06-02 14:07:32] [AppID 108600] Detected workshop change : changed cached item 1911132112, new manifest 1017552392668452840
+[2022-06-02 14:07:35] [AppID 108600] Download item 1911132112 result : OK
+[2022-06-02 14:07:35] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:36] [AppID 108600] Download item 1969456967 requested by app
+[2022-06-02 14:07:36] [AppID 108600] Starting Workshop download job (requested item 1969456967 )
+[2022-06-02 14:07:36] [AppID 108600] Detected workshop change : changed cached item 1969456967, new manifest 7767242823054761774
+[2022-06-02 14:07:38] [AppID 108600] Download item 1969456967 result : OK
+[2022-06-02 14:07:38] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:39] [AppID 108600] Download item 2814165668 requested by app
+[2022-06-02 14:07:39] [AppID 108600] Starting Workshop download job (requested item 2814165668 )
+[2022-06-02 14:07:39] [AppID 108600] Detected workshop change : changed cached item 2814165668, new manifest 6093755507645503907
+[2022-06-02 14:07:41] [AppID 108600] Download item 2814165668 result : OK
+[2022-06-02 14:07:41] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:41] [AppID 108600] Download item 2812326159 requested by app
+[2022-06-02 14:07:41] [AppID 108600] Starting Workshop download job (requested item 2812326159 )
+[2022-06-02 14:07:42] [AppID 108600] Detected workshop change : changed cached item 2812326159, new manifest 4792137051749168339
+[2022-06-02 14:07:44] [AppID 108600] Download item 2812326159 result : OK
+[2022-06-02 14:07:44] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:45] [AppID 108600] Download item 566115016 requested by app
+[2022-06-02 14:07:45] [AppID 108600] Starting Workshop download job (requested item 566115016 )
+[2022-06-02 14:07:45] [AppID 108600] Detected workshop change : changed cached item 566115016, new manifest 6547905796747490284
+[2022-06-02 14:07:46] [AppID 108600] Download item 566115016 result : OK
+[2022-06-02 14:07:46] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:46] [AppID 108600] Download item 2313387159 requested by app
+[2022-06-02 14:07:46] [AppID 108600] Starting Workshop download job (requested item 2313387159 )
+[2022-06-02 14:07:47] [AppID 108600] Detected workshop change : changed cached item 2313387159, new manifest 8792795313922300846
+[2022-06-02 14:07:48] [AppID 108600] Download item 2313387159 result : OK
+[2022-06-02 14:07:48] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:48] [AppID 108600] Download item 2169435993 requested by app
+[2022-06-02 14:07:48] [AppID 108600] Starting Workshop download job (requested item 2169435993 )
+[2022-06-02 14:07:49] [AppID 108600] Detected workshop change : changed cached item 2169435993, new manifest 587618430100776434
+[2022-06-02 14:07:50] [AppID 108600] Download item 2169435993 result : OK
+[2022-06-02 14:07:50] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:50] [AppID 108600] Download item 2619072426 requested by app
+[2022-06-02 14:07:50] [AppID 108600] Starting Workshop download job (requested item 2619072426 )
+[2022-06-02 14:07:51] [AppID 108600] Detected workshop change : changed cached item 2619072426, new manifest 174579850308620683
+[2022-06-02 14:07:53] [AppID 108600] Download item 2619072426 result : OK
+[2022-06-02 14:07:53] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:53] [AppID 108600] Download item 2659216714 requested by app
+[2022-06-02 14:07:53] [AppID 108600] Starting Workshop download job (requested item 2659216714 )
+[2022-06-02 14:07:53] [AppID 108600] Detected workshop change : changed cached item 2659216714, new manifest 1945825704767460646
+[2022-06-02 14:07:55] [AppID 108600] Download item 2659216714 result : OK
+[2022-06-02 14:07:55] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:07:55] [AppID 108600] Download item 2256623447 requested by app
+[2022-06-02 14:07:56] [AppID 108600] Starting Workshop download job (requested item 2256623447 )
+[2022-06-02 14:07:56] [AppID 108600] Detected workshop change : changed cached item 2256623447, new manifest 7113307753423161913
+[2022-06-02 14:08:02] [AppID 108600] Download item 2256623447 result : OK
+[2022-06-02 14:08:02] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:03] [AppID 108600] Download item 2650547917 requested by app
+[2022-06-02 14:08:03] [AppID 108600] Starting Workshop download job (requested item 2650547917 )
+[2022-06-02 14:08:03] [AppID 108600] Detected workshop change : changed cached item 2650547917, new manifest 3857960431383658439
+[2022-06-02 14:08:05] [AppID 108600] Download item 2650547917 result : OK
+[2022-06-02 14:08:05] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:05] [AppID 108600] Download item 2648779556 requested by app
+[2022-06-02 14:08:05] [AppID 108600] Starting Workshop download job (requested item 2648779556 )
+[2022-06-02 14:08:06] [AppID 108600] Detected workshop change : changed cached item 2648779556, new manifest 6448933922611760823
+[2022-06-02 14:08:12] [AppID 108600] Download item 2648779556 result : OK
+[2022-06-02 14:08:12] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:12] [AppID 108600] Download item 2732662310 requested by app
+[2022-06-02 14:08:12] [AppID 108600] Starting Workshop download job (requested item 2732662310 )
+[2022-06-02 14:08:12] [AppID 108600] Detected workshop change : changed cached item 2732662310, new manifest 2606885779399014168
+[2022-06-02 14:08:14] [AppID 108600] Download item 2732662310 result : OK
+[2022-06-02 14:08:14] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:15] [AppID 108600] Download item 2625625421 requested by app
+[2022-06-02 14:08:15] [AppID 108600] Starting Workshop download job (requested item 2625625421 )
+[2022-06-02 14:08:15] [AppID 108600] Detected workshop change : changed cached item 2625625421, new manifest 4295496484713522953
+[2022-06-02 14:08:19] [AppID 108600] Download item 2625625421 result : OK
+[2022-06-02 14:08:19] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:19] [AppID 108600] Download item 2704811006 requested by app
+[2022-06-02 14:08:19] [AppID 108600] Starting Workshop download job (requested item 2704811006 )
+[2022-06-02 14:08:20] [AppID 108600] Detected workshop change : changed cached item 2704811006, new manifest 4104716533351971675
+[2022-06-02 14:08:22] [AppID 108600] Download item 2704811006 result : OK
+[2022-06-02 14:08:22] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:22] [AppID 108600] Download item 2392676812 requested by app
+[2022-06-02 14:08:22] [AppID 108600] Starting Workshop download job (requested item 2392676812 )
+[2022-06-02 14:08:22] [AppID 108600] Detected workshop change : changed cached item 2392676812, new manifest 7904673211067348114
+[2022-06-02 14:08:24] [AppID 108600] Download item 2392676812 result : OK
+[2022-06-02 14:08:24] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:24] [AppID 108600] Download item 2761200458 requested by app
+[2022-06-02 14:08:24] [AppID 108600] Starting Workshop download job (requested item 2761200458 )
+[2022-06-02 14:08:25] [AppID 108600] Detected workshop change : changed cached item 2761200458, new manifest 8246891039654312536
+[2022-06-02 14:08:29] [AppID 108600] Download item 2761200458 result : OK
+[2022-06-02 14:08:29] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:30] [AppID 108600] Download item 2447729538 requested by app
+[2022-06-02 14:08:30] [AppID 108600] Starting Workshop download job (requested item 2447729538 )
+[2022-06-02 14:08:30] [AppID 108600] Detected workshop change : changed cached item 2447729538, new manifest 8479027441735434431
+[2022-06-02 14:08:33] [AppID 108600] Download item 2447729538 result : OK
+[2022-06-02 14:08:33] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:33] [AppID 108600] Download item 2769706949 requested by app
+[2022-06-02 14:08:33] [AppID 108600] Starting Workshop download job (requested item 2769706949 )
+[2022-06-02 14:08:33] [AppID 108600] Detected workshop change : changed cached item 2769706949, new manifest 4099614018385899064
+[2022-06-02 14:08:35] [AppID 108600] Download item 2769706949 result : OK
+[2022-06-02 14:08:35] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:35] [AppID 108600] Download item 2711057211 requested by app
+[2022-06-02 14:08:35] [AppID 108600] Starting Workshop download job (requested item 2711057211 )
+[2022-06-02 14:08:36] [AppID 108600] Detected workshop change : changed cached item 2711057211, new manifest 3313519500332065099
+[2022-06-02 14:08:38] [AppID 108600] Download item 2711057211 result : OK
+[2022-06-02 14:08:38] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:38] [AppID 108600] Download item 2487022075 requested by app
+[2022-06-02 14:08:38] [AppID 108600] Starting Workshop download job (requested item 2487022075 )
+[2022-06-02 14:08:39] [AppID 108600] Detected workshop change : changed cached item 2487022075, new manifest 845837841620128653
+[2022-06-02 14:08:41] [AppID 108600] Download item 2487022075 result : OK
+[2022-06-02 14:08:41] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:42] [AppID 108600] Download item 2612584219 requested by app
+[2022-06-02 14:08:42] [AppID 108600] Starting Workshop download job (requested item 2612584219 )
+[2022-06-02 14:08:42] [AppID 108600] Detected workshop change : changed cached item 2612584219, new manifest 1569807720506553669
+[2022-06-02 14:08:43] [AppID 108600] Download item 2612584219 result : OK
+[2022-06-02 14:08:43] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:44] [AppID 108600] Download item 2657661246 requested by app
+[2022-06-02 14:08:44] [AppID 108600] Starting Workshop download job (requested item 2657661246 )
+[2022-06-02 14:08:44] [AppID 108600] Detected workshop change : changed cached item 2657661246, new manifest 5936945785362995487
+[2022-06-02 14:08:47] [AppID 108600] Download item 2657661246 result : OK
+[2022-06-02 14:08:47] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:47] [AppID 108600] Download item 2732804047 requested by app
+[2022-06-02 14:08:47] [AppID 108600] Starting Workshop download job (requested item 2732804047 )
+[2022-06-02 14:08:47] [AppID 108600] Detected workshop change : changed cached item 2732804047, new manifest 8678485949110071350
+[2022-06-02 14:08:48] [AppID 108600] Download item 2732804047 result : OK
+[2022-06-02 14:08:48] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:49] [AppID 108600] Download item 2651600962 requested by app
+[2022-06-02 14:08:49] [AppID 108600] Starting Workshop download job (requested item 2651600962 )
+[2022-06-02 14:08:49] [AppID 108600] Detected workshop change : changed cached item 2651600962, new manifest 3105382967103878236
+[2022-06-02 14:08:51] [AppID 108600] Download item 2651600962 result : OK
+[2022-06-02 14:08:51] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:51] [AppID 108600] Download item 2594865484 requested by app
+[2022-06-02 14:08:51] [AppID 108600] Starting Workshop download job (requested item 2594865484 )
+[2022-06-02 14:08:52] [AppID 108600] Detected workshop change : changed cached item 2594865484, new manifest 2642225266549311960
+[2022-06-02 14:08:53] [AppID 108600] Download item 2594865484 result : OK
+[2022-06-02 14:08:53] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:53] [AppID 108600] Download item 2631149521 requested by app
+[2022-06-02 14:08:53] [AppID 108600] Starting Workshop download job (requested item 2631149521 )
+[2022-06-02 14:08:54] [AppID 108600] Detected workshop change : changed cached item 2631149521, new manifest 659902580063027748
+[2022-06-02 14:08:55] [AppID 108600] Download item 2631149521 result : OK
+[2022-06-02 14:08:55] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:08:55] [AppID 108600] Download item 2788428718 requested by app
+[2022-06-02 14:08:55] [AppID 108600] Starting Workshop download job (requested item 2788428718 )
+[2022-06-02 14:08:56] [AppID 108600] Detected workshop change : changed cached item 2788428718, new manifest 2371631933853782201
+[2022-06-02 14:09:00] [AppID 108600] Download item 2788428718 result : OK
+[2022-06-02 14:09:00] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:00] [AppID 108600] Download item 2688884240 requested by app
+[2022-06-02 14:09:00] [AppID 108600] Starting Workshop download job (requested item 2688884240 )
+[2022-06-02 14:09:01] [AppID 108600] Detected workshop change : changed cached item 2688884240, new manifest 1142830260504522040
+[2022-06-02 14:09:03] [AppID 108600] Download item 2688884240 result : OK
+[2022-06-02 14:09:03] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:04] [AppID 108600] Download item 2699828474 requested by app
+[2022-06-02 14:09:04] [AppID 108600] Starting Workshop download job (requested item 2699828474 )
+[2022-06-02 14:09:04] [AppID 108600] Detected workshop change : changed cached item 2699828474, new manifest 2121261271092779859
+[2022-06-02 14:09:05] [AppID 108600] Download item 2699828474 result : OK
+[2022-06-02 14:09:05] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:06] [AppID 108600] Download item 2673713236 requested by app
+[2022-06-02 14:09:06] [AppID 108600] Starting Workshop download job (requested item 2673713236 )
+[2022-06-02 14:09:06] [AppID 108600] Detected workshop change : changed cached item 2673713236, new manifest 7094396862083036095
+[2022-06-02 14:09:08] [AppID 108600] Download item 2673713236 result : OK
+[2022-06-02 14:09:08] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:08] [AppID 108600] Download item 2696083206 requested by app
+[2022-06-02 14:09:08] [AppID 108600] Starting Workshop download job (requested item 2696083206 )
+[2022-06-02 14:09:09] [AppID 108600] Detected workshop change : changed cached item 2696083206, new manifest 8645631865256292738
+[2022-06-02 14:09:10] [AppID 108600] Download item 2696083206 result : OK
+[2022-06-02 14:09:10] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:10] [AppID 108600] Download item 2794941460 requested by app
+[2022-06-02 14:09:10] [AppID 108600] Starting Workshop download job (requested item 2794941460 )
+[2022-06-02 14:09:11] [AppID 108600] Detected workshop change : changed cached item 2794941460, new manifest 4150846918472997601
+[2022-06-02 14:09:12] [AppID 108600] Download item 2794941460 result : OK
+[2022-06-02 14:09:12] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:13] [AppID 108600] Download item 2780594299 requested by app
+[2022-06-02 14:09:13] [AppID 108600] Starting Workshop download job (requested item 2780594299 )
+[2022-06-02 14:09:13] [AppID 108600] Detected workshop change : changed cached item 2780594299, new manifest 3363205413360336498
+[2022-06-02 14:09:14] [AppID 108600] Download item 2780594299 result : OK
+[2022-06-02 14:09:14] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:15] [AppID 108600] Download item 2759027882 requested by app
+[2022-06-02 14:09:15] [AppID 108600] Starting Workshop download job (requested item 2759027882 )
+[2022-06-02 14:09:15] [AppID 108600] Detected workshop change : changed cached item 2759027882, new manifest 4366432132348022401
+[2022-06-02 14:09:16] [AppID 108600] Download item 2759027882 result : OK
+[2022-06-02 14:09:16] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:17] [AppID 108600] Download item 2793164190 requested by app
+[2022-06-02 14:09:17] [AppID 108600] Starting Workshop download job (requested item 2793164190 )
+[2022-06-02 14:09:17] [AppID 108600] Detected workshop change : changed cached item 2793164190, new manifest 6773923517099193361
+[2022-06-02 14:09:19] [AppID 108600] Download item 2793164190 result : OK
+[2022-06-02 14:09:19] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:20] [AppID 108600] Download item 2807001835 requested by app
+[2022-06-02 14:09:20] [AppID 108600] Starting Workshop download job (requested item 2807001835 )
+[2022-06-02 14:09:20] [AppID 108600] Detected workshop change : changed cached item 2807001835, new manifest 3178564138313481335
+[2022-06-02 14:09:21] [AppID 108600] Download item 2807001835 result : OK
+[2022-06-02 14:09:21] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:22] [AppID 108600] Download item 2762018937 requested by app
+[2022-06-02 14:09:22] [AppID 108600] Starting Workshop download job (requested item 2762018937 )
+[2022-06-02 14:09:22] [AppID 108600] Detected workshop change : changed cached item 2762018937, new manifest 1004796892695719532
+[2022-06-02 14:09:24] [AppID 108600] Download item 2762018937 result : OK
+[2022-06-02 14:09:24] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:24] [AppID 108600] Download item 2781774668 requested by app
+[2022-06-02 14:09:24] [AppID 108600] Starting Workshop download job (requested item 2781774668 )
+[2022-06-02 14:09:25] [AppID 108600] Detected workshop change : changed cached item 2781774668, new manifest 878169494817254726
+[2022-06-02 14:09:27] [AppID 108600] Download item 2781774668 result : OK
+[2022-06-02 14:09:27] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:27] [AppID 108600] Download item 2754163350 requested by app
+[2022-06-02 14:09:27] [AppID 108600] Starting Workshop download job (requested item 2754163350 )
+[2022-06-02 14:09:27] [AppID 108600] Detected workshop change : changed cached item 2754163350, new manifest 5141112301532452004
+[2022-06-02 14:09:29] [AppID 108600] Download item 2754163350 result : OK
+[2022-06-02 14:09:29] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:29] [AppID 108600] Download item 2402057349 requested by app
+[2022-06-02 14:09:29] [AppID 108600] Starting Workshop download job (requested item 2402057349 )
+[2022-06-02 14:09:30] [AppID 108600] Detected workshop change : changed cached item 2402057349, new manifest 3378301086288560188
+[2022-06-02 14:09:31] [AppID 108600] Download item 2402057349 result : OK
+[2022-06-02 14:09:31] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:31] [AppID 108600] Download item 2810800927 requested by app
+[2022-06-02 14:09:31] [AppID 108600] Starting Workshop download job (requested item 2810800927 )
+[2022-06-02 14:09:32] [AppID 108600] Detected workshop change : changed cached item 2810800927, new manifest 1258638812427723802
+[2022-06-02 14:09:33] [AppID 108600] Download item 2810800927 result : OK
+[2022-06-02 14:09:33] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:34] [AppID 108600] Download item 2617575303 requested by app
+[2022-06-02 14:09:34] [AppID 108600] Starting Workshop download job (requested item 2617575303 )
+[2022-06-02 14:09:34] [AppID 108600] Detected workshop change : changed cached item 2617575303, new manifest 3131244845983963937
+[2022-06-02 14:09:37] [AppID 108600] Download item 2617575303 result : OK
+[2022-06-02 14:09:37] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 14:09:37] [AppID 108600] Download item 2694448564 requested by app
+[2022-06-02 14:09:37] [AppID 108600] Starting Workshop download job (requested item 2694448564 )
+[2022-06-02 14:09:37] [AppID 108600] Detected workshop change : changed cached item 2694448564, new manifest 1591876640116614607
+[2022-06-02 14:09:39] [AppID 108600] Download item 2694448564 result : OK
+[2022-06-02 14:09:39] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 14:35:58] Loading workshop items for 0 installed apps for user [a:1:1967301958]:
+
+
+[2022-06-02 14:37:27] Loading workshop items for 0 installed apps for user [a:1:830979155]:
+
+
+[2022-06-02 14:38:12] Loading workshop items for 0 installed apps for user [a:1:1199534466]:
+
+
+[2022-06-02 14:41:04] Loading workshop items for 0 installed apps for user [a:1:1465777469]:
+
+
+[2022-06-02 14:41:28] Loading workshop items for 0 installed apps for user [a:1:477783176]:
+
+
+[2022-06-02 14:41:55] Loading workshop items for 0 installed apps for user [a:1:2110696627]:
+
+
+[2022-06-02 14:44:19] Loading workshop items for 0 installed apps for user [a:1:1343079777]:
+
+
+[2022-06-02 14:44:45] Loading workshop items for 0 installed apps for user [a:1:2254185791]:
+
+
+[2022-06-02 14:45:03] Loading workshop items for 0 installed apps for user [a:1:2029012997]:
+
+
+[2022-06-02 14:45:24] Loading workshop items for 0 installed apps for user [a:1:1092211856]:
+
+
+[2022-06-02 14:46:17] Loading workshop items for 0 installed apps for user [a:1:1906184470]:
+
+
+[2022-06-02 14:47:20] Loading workshop items for 0 installed apps for user [a:1:155804786]:
+
+
+[2022-06-02 14:48:03] Loading workshop items for 0 installed apps for user [a:1:2213256211]:
+
+
+[2022-06-02 14:48:41] Loading workshop items for 0 installed apps for user [a:1:1680954529]:
+
+
+[2022-06-02 14:48:59] Loading workshop items for 0 installed apps for user [a:1:667468097]:
+
+
+[2022-06-02 14:50:45] Loading workshop items for 0 installed apps for user [a:1:1430167609]:
+
+
+[2022-06-02 14:51:44] Loading workshop items for 0 installed apps for user [a:1:529425410]:
+
+
+[2022-06-02 14:53:00] Loading workshop items for 0 installed apps for user [a:1:258055491]:
+
+
+[2022-06-02 14:53:36] Loading workshop items for 0 installed apps for user [a:1:1036113260]:
+
+
+[2022-06-02 14:54:18] Loading workshop items for 0 installed apps for user [a:1:2239044874]:
+
+
+[2022-06-02 14:55:08] Loading workshop items for 0 installed apps for user [a:1:1020712288]:
+
+
+[2022-06-02 14:55:47] Loading workshop items for 0 installed apps for user [a:1:2157278483]:
+
+
+[2022-06-02 14:56:56] Loading workshop items for 0 installed apps for user [a:1:2315981015]:
+
+
+[2022-06-02 14:57:47] Loading workshop items for 0 installed apps for user [a:1:1773502548]:
+
+
+[2022-06-02 14:58:34] Loading workshop items for 0 installed apps for user [a:1:1292256641]:
+
+
+[2022-06-02 14:59:29] Loading workshop items for 0 installed apps for user [a:1:2305919282]:
+
+
+[2022-06-02 15:00:27] Loading workshop items for 0 installed apps for user [a:1:447766958]:
+
+
+[2022-06-02 15:00:46] Loading workshop items for 0 installed apps for user [a:1:2556582118]:
+
+
+[2022-06-02 15:00:56] Loading workshop items for 0 installed apps for user [a:1:969920700]:
+
+
+[2022-06-02 15:01:46] Loading workshop items for 0 installed apps for user [a:1:2049896677]:
+
+
+[2022-06-02 15:04:42] Loading workshop items for 0 installed apps for user [a:1:2157562943]:
+
+
+[2022-06-02 16:00:28] Loading workshop items for 0 installed apps for user [a:1:1832528053]:
+[2022-06-02 16:00:30] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (54 installed, 54 needed)
+[2022-06-02 16:00:30] [AppID 108600] Download item 2714850307 requested by app
+[2022-06-02 16:00:30] [AppID 108600] Starting Workshop download job (requested item 2714850307 )
+[2022-06-02 16:00:31] [AppID 108600] Detected workshop change : changed cached item 2714850307, new manifest 5000877992978690498
+[2022-06-02 16:00:34] [AppID 108600] Download item 2714850307 result : OK
+[2022-06-02 16:00:34] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:34] [AppID 108600] Updating workshop item details failed with Access Denied
+[2022-06-02 16:00:34] [AppID 108600] Download item 2799152995 requested by app
+[2022-06-02 16:00:34] [AppID 108600] Starting Workshop download job (requested item 2799152995 )
+[2022-06-02 16:00:35] [AppID 108600] Detected workshop change : changed cached item 2799152995, new manifest 2686807972516695965
+[2022-06-02 16:00:37] [AppID 108600] Download item 2799152995 result : OK
+[2022-06-02 16:00:37] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:37] [AppID 108600] Download item 2658619264 requested by app
+[2022-06-02 16:00:37] [AppID 108600] Starting Workshop download job (requested item 2658619264 )
+[2022-06-02 16:00:38] [AppID 108600] Detected workshop change : changed cached item 2658619264, new manifest 2257349180104316930
+[2022-06-02 16:00:48] [AppID 108600] Download item 2658619264 result : OK
+[2022-06-02 16:00:48] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:49] [AppID 108600] Download item 2772575623 requested by app
+[2022-06-02 16:00:49] [AppID 108600] Starting Workshop download job (requested item 2772575623 )
+[2022-06-02 16:00:49] [AppID 108600] Detected workshop change : changed cached item 2772575623, new manifest 1788419088295177161
+[2022-06-02 16:00:52] [AppID 108600] Download item 2772575623 result : OK
+[2022-06-02 16:00:52] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:52] [AppID 108600] Download item 2730158335 requested by app
+[2022-06-02 16:00:52] [AppID 108600] Starting Workshop download job (requested item 2730158335 )
+[2022-06-02 16:00:53] [AppID 108600] Detected workshop change : changed cached item 2730158335, new manifest 1102779746008914454
+[2022-06-02 16:00:54] [AppID 108600] Download item 2730158335 result : OK
+[2022-06-02 16:00:54] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:54] [AppID 108600] Download item 2366717227 requested by app
+[2022-06-02 16:00:54] [AppID 108600] Starting Workshop download job (requested item 2366717227 )
+[2022-06-02 16:00:55] [AppID 108600] Detected workshop change : changed cached item 2366717227, new manifest 4291227506672209856
+[2022-06-02 16:00:56] [AppID 108600] Download item 2366717227 result : OK
+[2022-06-02 16:00:56] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:56] [AppID 108600] Download item 2469388752 requested by app
+[2022-06-02 16:00:56] [AppID 108600] Starting Workshop download job (requested item 2469388752 )
+[2022-06-02 16:00:57] [AppID 108600] Detected workshop change : changed cached item 2469388752, new manifest 8938477824599796810
+[2022-06-02 16:00:59] [AppID 108600] Download item 2469388752 result : OK
+[2022-06-02 16:00:59] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:00:59] [AppID 108600] Download item 2464581798 requested by app
+[2022-06-02 16:00:59] [AppID 108600] Starting Workshop download job (requested item 2464581798 )
+[2022-06-02 16:01:00] [AppID 108600] Detected workshop change : changed cached item 2464581798, new manifest 8298799746840505812
+[2022-06-02 16:01:01] [AppID 108600] Download item 2464581798 result : OK
+[2022-06-02 16:01:01] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:01] [AppID 108600] Download item 2728257015 requested by app
+[2022-06-02 16:01:01] [AppID 108600] Starting Workshop download job (requested item 2728257015 )
+[2022-06-02 16:01:02] [AppID 108600] Detected workshop change : changed cached item 2728257015, new manifest 1157391696906764645
+[2022-06-02 16:01:04] [AppID 108600] Download item 2728257015 result : OK
+[2022-06-02 16:01:04] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:05] [AppID 108600] Download item 2423906082 requested by app
+[2022-06-02 16:01:05] [AppID 108600] Starting Workshop download job (requested item 2423906082 )
+[2022-06-02 16:01:05] [AppID 108600] Detected workshop change : changed cached item 2423906082, new manifest 6553432383254236137
+[2022-06-02 16:01:08] [AppID 108600] Download item 2423906082 result : OK
+[2022-06-02 16:01:08] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:08] [AppID 108600] Download item 2432621382 requested by app
+[2022-06-02 16:01:08] [AppID 108600] Starting Workshop download job (requested item 2432621382 )
+[2022-06-02 16:01:09] [AppID 108600] Detected workshop change : changed cached item 2432621382, new manifest 6157775921091467285
+[2022-06-02 16:01:10] [AppID 108600] Download item 2432621382 result : OK
+[2022-06-02 16:01:10] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:10] [AppID 108600] Download item 2802932924 requested by app
+[2022-06-02 16:01:10] [AppID 108600] Starting Workshop download job (requested item 2802932924 )
+[2022-06-02 16:01:12] [AppID 108600] Detected workshop change : changed cached item 2802932924, new manifest 9137493718693091819
+[2022-06-02 16:01:16] [AppID 108600] Download item 2802932924 result : OK
+[2022-06-02 16:01:16] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:17] [AppID 108600] Download item 2623458493 requested by app
+[2022-06-02 16:01:17] [AppID 108600] Starting Workshop download job (requested item 2623458493 )
+[2022-06-02 16:01:20] [AppID 108600] Detected workshop change : changed cached item 2623458493, new manifest 9100567676357158654
+[2022-06-02 16:01:22] [AppID 108600] Download item 2623458493 result : OK
+[2022-06-02 16:01:22] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:23] [AppID 108600] Download item 2696986935 requested by app
+[2022-06-02 16:01:23] [AppID 108600] Starting Workshop download job (requested item 2696986935 )
+[2022-06-02 16:01:23] [AppID 108600] Detected workshop change : changed cached item 2696986935, new manifest 7863181095163875143
+[2022-06-02 16:01:24] [AppID 108600] Download item 2696986935 result : OK
+[2022-06-02 16:01:24] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:25] [AppID 108600] Download item 2713921292 requested by app
+[2022-06-02 16:01:25] [AppID 108600] Starting Workshop download job (requested item 2713921292 )
+[2022-06-02 16:01:25] [AppID 108600] Detected workshop change : changed cached item 2713921292, new manifest 7520057608920176723
+[2022-06-02 16:01:29] [AppID 108600] Download item 2713921292 result : OK
+[2022-06-02 16:01:29] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:29] [AppID 108600] Download item 2680473910 requested by app
+[2022-06-02 16:01:29] [AppID 108600] Starting Workshop download job (requested item 2680473910 )
+[2022-06-02 16:01:29] [AppID 108600] Detected workshop change : changed cached item 2680473910, new manifest 4683887626503743201
+[2022-06-02 16:01:34] [AppID 108600] Download item 2680473910 result : OK
+[2022-06-02 16:01:34] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:34] [AppID 108600] Download item 2125659488 requested by app
+[2022-06-02 16:01:34] [AppID 108600] Starting Workshop download job (requested item 2125659488 )
+[2022-06-02 16:01:34] [AppID 108600] Detected workshop change : changed cached item 2125659488, new manifest 3970835562215235315
+[2022-06-02 16:01:40] [AppID 108600] Download item 2125659488 result : OK
+[2022-06-02 16:01:40] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:41] [AppID 108600] Download item 2122265954 requested by app
+[2022-06-02 16:01:41] [AppID 108600] Starting Workshop download job (requested item 2122265954 )
+[2022-06-02 16:01:41] [AppID 108600] Detected workshop change : changed cached item 2122265954, new manifest 1745489430409961888
+[2022-06-02 16:01:53] [AppID 108600] Download item 2122265954 result : OK
+[2022-06-02 16:01:53] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:01:54] [AppID 108600] Download item 1896907770 requested by app
+[2022-06-02 16:01:54] [AppID 108600] Starting Workshop download job (requested item 1896907770 )
+[2022-06-02 16:01:54] [AppID 108600] Detected workshop change : changed cached item 1896907770, new manifest 1503501249451210630
+[2022-06-02 16:02:12] [AppID 108600] Download item 1896907770 result : OK
+[2022-06-02 16:02:12] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:12] [AppID 108600] Download item 2478247379 requested by app
+[2022-06-02 16:02:12] [AppID 108600] Starting Workshop download job (requested item 2478247379 )
+[2022-06-02 16:02:13] [AppID 108600] Detected workshop change : changed cached item 2478247379, new manifest 2043385782891374433
+[2022-06-02 16:02:15] [AppID 108600] Download item 2478247379 result : OK
+[2022-06-02 16:02:15] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:16] [AppID 108600] Download item 2728416041 requested by app
+[2022-06-02 16:02:16] [AppID 108600] Starting Workshop download job (requested item 2728416041 )
+[2022-06-02 16:02:16] [AppID 108600] Detected workshop change : changed cached item 2728416041, new manifest 4253497394821422789
+[2022-06-02 16:02:19] [AppID 108600] Download item 2728416041 result : OK
+[2022-06-02 16:02:19] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:19] [AppID 108600] Download item 2783635181 requested by app
+[2022-06-02 16:02:20] [AppID 108600] Starting Workshop download job (requested item 2783635181 )
+[2022-06-02 16:02:20] [AppID 108600] Detected workshop change : changed cached item 2783635181, new manifest 1715975863047776337
+[2022-06-02 16:02:22] [AppID 108600] Download item 2783635181 result : OK
+[2022-06-02 16:02:22] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:22] [AppID 108600] Download item 2592358528 requested by app
+[2022-06-02 16:02:22] [AppID 108600] Starting Workshop download job (requested item 2592358528 )
+[2022-06-02 16:02:22] [AppID 108600] Detected workshop change : changed cached item 2592358528, new manifest 3212191445379251569
+[2022-06-02 16:02:26] [AppID 108600] Download item 2592358528 result : OK
+[2022-06-02 16:02:26] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:26] [AppID 108600] Download item 2368058459 requested by app
+[2022-06-02 16:02:26] [AppID 108600] Starting Workshop download job (requested item 2368058459 )
+[2022-06-02 16:02:26] [AppID 108600] Detected workshop change : changed cached item 2368058459, new manifest 7432079292106359070
+[2022-06-02 16:02:29] [AppID 108600] Download item 2368058459 result : OK
+[2022-06-02 16:02:29] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:29] [AppID 108600] Download item 2478768005 requested by app
+[2022-06-02 16:02:29] [AppID 108600] Starting Workshop download job (requested item 2478768005 )
+[2022-06-02 16:02:30] [AppID 108600] Detected workshop change : changed cached item 2478768005, new manifest 8027356340721997751
+[2022-06-02 16:02:31] [AppID 108600] Download item 2478768005 result : OK
+[2022-06-02 16:02:31] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:32] [AppID 108600] Download item 2778576730 requested by app
+[2022-06-02 16:02:32] [AppID 108600] Starting Workshop download job (requested item 2778576730 )
+[2022-06-02 16:02:32] [AppID 108600] Detected workshop change : changed cached item 2778576730, new manifest 5830173945557683938
+[2022-06-02 16:02:38] [AppID 108600] Download item 2778576730 result : OK
+[2022-06-02 16:02:38] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:38] [AppID 108600] Download item 2717145847 requested by app
+[2022-06-02 16:02:38] [AppID 108600] Starting Workshop download job (requested item 2717145847 )
+[2022-06-02 16:02:39] [AppID 108600] Detected workshop change : changed cached item 2717145847, new manifest 417696259271610042
+[2022-06-02 16:02:40] [AppID 108600] Download item 2717145847 result : OK
+[2022-06-02 16:02:40] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:40] [AppID 108600] Download item 2729417044 requested by app
+[2022-06-02 16:02:40] [AppID 108600] Starting Workshop download job (requested item 2729417044 )
+[2022-06-02 16:02:41] [AppID 108600] Detected workshop change : changed cached item 2729417044, new manifest 7830169782589762764
+[2022-06-02 16:02:42] [AppID 108600] Download item 2729417044 result : OK
+[2022-06-02 16:02:42] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:43] [AppID 108600] Download item 2282429356 requested by app
+[2022-06-02 16:02:43] [AppID 108600] Starting Workshop download job (requested item 2282429356 )
+[2022-06-02 16:02:43] [AppID 108600] Detected workshop change : changed cached item 2282429356, new manifest 2757941466277817870
+[2022-06-02 16:02:52] [AppID 108600] Download item 2282429356 result : OK
+[2022-06-02 16:02:52] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:53] [AppID 108600] Download item 2811232708 requested by app
+[2022-06-02 16:02:53] [AppID 108600] Starting Workshop download job (requested item 2811232708 )
+[2022-06-02 16:02:53] [AppID 108600] Detected workshop change : changed cached item 2811232708, new manifest 8188405924655089714
+[2022-06-02 16:02:55] [AppID 108600] Download item 2811232708 result : OK
+[2022-06-02 16:02:55] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:56] [AppID 108600] Download item 2516123638 requested by app
+[2022-06-02 16:02:56] [AppID 108600] Starting Workshop download job (requested item 2516123638 )
+[2022-06-02 16:02:56] [AppID 108600] Detected workshop change : changed cached item 2516123638, new manifest 8448933515192784885
+[2022-06-02 16:02:58] [AppID 108600] Download item 2516123638 result : OK
+[2022-06-02 16:02:58] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:02:59] [AppID 108600] Download item 2781963981 requested by app
+[2022-06-02 16:02:59] [AppID 108600] Starting Workshop download job (requested item 2781963981 )
+[2022-06-02 16:02:59] [AppID 108600] Detected workshop change : changed cached item 2781963981, new manifest 8029033072037161000
+[2022-06-02 16:03:01] [AppID 108600] Download item 2781963981 result : OK
+[2022-06-02 16:03:01] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:03:02] [AppID 108600] Download item 2732639855 requested by app
+[2022-06-02 16:03:02] [AppID 108600] Starting Workshop download job (requested item 2732639855 )
+[2022-06-02 16:03:02] [AppID 108600] Detected workshop change : changed cached item 2732639855, new manifest 9013333161533910114
+[2022-06-02 16:03:05] [AppID 108600] Download item 2732639855 result : OK
+[2022-06-02 16:03:05] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:03:05] [AppID 108600] Download item 2759339330 requested by app
+[2022-06-02 16:03:05] [AppID 108600] Starting Workshop download job (requested item 2759339330 )
+[2022-06-02 16:03:06] [AppID 108600] Detected workshop change : changed cached item 2759339330, new manifest 2855085700125558899
+[2022-06-02 16:03:10] [AppID 108600] Download item 2759339330 result : OK
+[2022-06-02 16:03:10] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:03:10] [AppID 108600] Download item 2566953935 requested by app
+[2022-06-02 16:03:10] [AppID 108600] Starting Workshop download job (requested item 2566953935 )
+[2022-06-02 16:03:11] [AppID 108600] Detected workshop change : changed cached item 2566953935, new manifest 890421510263766089
+[2022-06-02 16:03:13] [AppID 108600] Download item 2566953935 result : OK
+[2022-06-02 16:03:13] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:03:13] [AppID 108600] Download item 2732594572 requested by app
+[2022-06-02 16:03:13] [AppID 108600] Starting Workshop download job (requested item 2732594572 )
+[2022-06-02 16:03:14] [AppID 108600] Detected workshop change : changed cached item 2732594572, new manifest 8273388624774393515
+[2022-06-02 16:03:15] [AppID 108600] Download item 2732594572 result : OK
+[2022-06-02 16:03:15] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:03:16] [AppID 108600] Download item 2790397567 requested by app
+[2022-06-02 16:03:16] [AppID 108600] Starting Workshop download job (requested item 2790397567 )
+[2022-06-02 16:03:16] [AppID 108600] Detected workshop change : changed cached item 2790397567, new manifest 2419917384359416509
+[2022-06-02 16:03:19] [AppID 108600] Download item 2790397567 result : OK
+[2022-06-02 16:03:19] [AppID 108600] Finished Workshop download job : No Error
+
+
+[2022-06-02 16:07:57] Loading workshop items for 0 installed apps for user [a:1:532700178]:
+[2022-06-02 16:07:59] [AppID 108600] Loaded workshop items in "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop" (91 installed, 91 needed)
+[2022-06-02 16:07:59] [AppID 108600] Download item 2618213077 requested by app
+[2022-06-02 16:07:59] [AppID 108600] Starting Workshop download job (requested item 2618213077 )
+[2022-06-02 16:07:59] [AppID 108600] Detected workshop change : changed cached item 2618213077, new manifest 4550546453296723211
+[2022-06-02 16:08:04] [AppID 108600] Download item 2618213077 result : OK
+[2022-06-02 16:08:04] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:08:04] [AppID 108600] Updating workshop item details failed with Access Denied
+[2022-06-02 16:08:05] [AppID 108600] Download item 2529746725 requested by app
+[2022-06-02 16:08:05] [AppID 108600] Starting Workshop download job (requested item 2529746725 )
+[2022-06-02 16:08:05] [AppID 108600] Detected workshop change : changed cached item 2529746725, new manifest 7883487075611680093
+[2022-06-02 16:08:06] [AppID 108600] Download item 2529746725 result : OK
+[2022-06-02 16:08:06] [AppID 108600] Finished Workshop download job : No Error
+[2022-06-02 16:08:07] [AppID 108600] Download item 2216760107 requested by app
+[2022-06-02 16:08:07] [AppID 108600] Starting Workshop download job (requested item 2216760107 )
+[2022-06-02 16:08:07] [AppID 108600] Detected workshop change : changed cached item 2216760107, new manifest 7937625344443240827
+[2022-06-02 16:08:08] [AppID 108600] Download item 2216760107 result : OK
+[2022-06-02 16:08:08] [AppID 108600] Finished Workshop download job : No Error

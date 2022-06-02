@@ -1,0 +1,343 @@
+
+
+[2022-06-02 16:02:15] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 178 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:15] AppID 108600 update changed : Running,
+[2022-06-02 16:02:15] AppID 108600 update changed : None
+[2022-06-02 16:02:15] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:16] AppID 108600 scheduler update : Priority First, not played for 1654174936 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:16] AppID 108600 update changed : Running,
+[2022-06-02 16:02:16] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:17] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): cache4-fra1.steamcontent.com/depot/108600/manifest/4253497394821422789/5/13329390100902432077 - received 200 (OK) HTTP response
+[2022-06-02 16:02:18] AppID 108600 update changed : Running,
+[2022-06-02 16:02:18] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:18] AppID 108600 update changed : Running,
+[2022-06-02 16:02:18] AppID 108600 update started : download 0/129344, store 0/0, reuse 0/0, delta 0/0, stage 0/128933 
+[2022-06-02 16:02:18] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:18] Downloading 5 chunks from depot 108600
+[2022-06-02 16:02:19] AppID 108600 update changed : Running,
+[2022-06-02 16:02:19] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:19] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 15 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:19] AppID 108600 update changed : Running,
+[2022-06-02 16:02:19] AppID 108600 update changed : None
+[2022-06-02 16:02:19] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:19] AppID 108600 scheduler update : Priority First, not played for 1654174939 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:20] AppID 108600 update changed : Running,
+[2022-06-02 16:02:20] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:20] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/108600/manifest/1715975863047776337/5/13415834178814744108 - received 200 (OK) HTTP response
+[2022-06-02 16:02:20] AppID 108600 update changed : Running,
+[2022-06-02 16:02:20] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:21] AppID 108600 update changed : Running,
+[2022-06-02 16:02:21] AppID 108600 update started : download 0/2328880, store 0/0, reuse 0/0, delta 0/0, stage 0/3517368 
+[2022-06-02 16:02:21] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:21] Downloading 40 chunks from depot 108600
+[2022-06-02 16:02:21] AppID 108600 update changed : Running,
+[2022-06-02 16:02:21] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:21] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 55 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:22] AppID 108600 update changed : Running,
+[2022-06-02 16:02:22] AppID 108600 update changed : None
+[2022-06-02 16:02:22] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:22] AppID 108600 scheduler update : Priority First, not played for 1654174942 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:22] AppID 108600 update changed : Running,
+[2022-06-02 16:02:22] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:23] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): cache2-fra2.steamcontent.com/depot/108600/manifest/3212191445379251569/5/3203694479920378584 - received 200 (OK) HTTP response
+[2022-06-02 16:02:23] AppID 108600 update changed : Running,
+[2022-06-02 16:02:23] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:23] AppID 108600 update changed : Running,
+[2022-06-02 16:02:23] AppID 108600 update started : download 0/8741456, store 0/0, reuse 0/50844, delta 0/0, stage 0/9124950 
+[2022-06-02 16:02:23] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:23] Downloading 88 chunks from depot 108600
+[2022-06-02 16:02:26] AppID 108600 update changed : Running,
+[2022-06-02 16:02:26] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:26] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 112 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:26] AppID 108600 update changed : Running,
+[2022-06-02 16:02:26] AppID 108600 update changed : None
+[2022-06-02 16:02:26] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:26] AppID 108600 scheduler update : Priority First, not played for 1654174946 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:26] AppID 108600 update changed : Running,
+[2022-06-02 16:02:26] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:27] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): cache4-fra1.steamcontent.com/depot/108600/manifest/7432079292106359070/5/9416945126140256363 - received 200 (OK) HTTP response
+[2022-06-02 16:02:27] AppID 108600 update changed : Running,
+[2022-06-02 16:02:27] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:27] AppID 108600 update changed : Running,
+[2022-06-02 16:02:27] AppID 108600 update started : download 0/2659488, store 0/0, reuse 0/0, delta 0/0, stage 0/2781340 
+[2022-06-02 16:02:27] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:27] Downloading 114 chunks from depot 108600
+[2022-06-02 16:02:29] AppID 108600 update changed : Running,
+[2022-06-02 16:02:29] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:29] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 147 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:29] AppID 108600 update changed : Running,
+[2022-06-02 16:02:29] AppID 108600 update changed : None
+[2022-06-02 16:02:29] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:29] AppID 108600 scheduler update : Priority First, not played for 1654174949 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:29] AppID 108600 update changed : Running,
+[2022-06-02 16:02:29] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:30] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/108600/manifest/8027356340721997751/5/10205331214015625780 - received 200 (OK) HTTP response
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,
+[2022-06-02 16:02:31] AppID 108600 update started : download 0/1171744, store 0/0, reuse 0/0, delta 0/0, stage 0/3545838 
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:31] Downloading 121 chunks from depot 108600
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:31] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 156 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:31] AppID 108600 update changed : Running,
+[2022-06-02 16:02:31] AppID 108600 update changed : None
+[2022-06-02 16:02:31] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:32] AppID 108600 scheduler update : Priority First, not played for 1654174952 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:32] AppID 108600 update changed : Running,
+[2022-06-02 16:02:32] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:34] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/108600/manifest/5830173945557683938/5/8574691906225839197 - received 200 (OK) HTTP response
+[2022-06-02 16:02:34] AppID 108600 update changed : Running,
+[2022-06-02 16:02:34] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:34] AppID 108600 update changed : Running,
+[2022-06-02 16:02:34] AppID 108600 update started : download 0/11484160, store 0/0, reuse 0/0, delta 0/0, stage 0/29794067 
+[2022-06-02 16:02:34] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:34] Downloading 320 chunks from depot 108600
+[2022-06-02 16:02:38] AppID 108600 update changed : Running,
+[2022-06-02 16:02:38] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:38] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 366 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:38] AppID 108600 update changed : Running,
+[2022-06-02 16:02:38] AppID 108600 update changed : None
+[2022-06-02 16:02:38] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:38] AppID 108600 scheduler update : Priority First, not played for 1654174958 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:38] AppID 108600 update changed : Running,
+[2022-06-02 16:02:38] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:39] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/108600/manifest/417696259271610042/5/5412969389410363298 - received 200 (OK) HTTP response
+[2022-06-02 16:02:39] AppID 108600 update changed : Running,
+[2022-06-02 16:02:39] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,
+[2022-06-02 16:02:40] AppID 108600 update started : download 0/38864, store 0/0, reuse 0/0, delta 0/0, stage 0/337691 
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:40] Downloading 3 chunks from depot 108600
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:40] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 10 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,
+[2022-06-02 16:02:40] AppID 108600 update changed : None
+[2022-06-02 16:02:40] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:40] AppID 108600 scheduler update : Priority First, not played for 1654174960 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,
+[2022-06-02 16:02:40] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:41] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/108600/manifest/7830169782589762764/5/14869672599381295140 - received 200 (OK) HTTP response
+[2022-06-02 16:02:41] AppID 108600 update changed : Running,
+[2022-06-02 16:02:41] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:42] AppID 108600 update changed : Running,
+[2022-06-02 16:02:42] AppID 108600 update started : download 0/288128, store 0/0, reuse 0/0, delta 0/0, stage 0/325228 
+[2022-06-02 16:02:42] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:42] Downloading 8 chunks from depot 108600
+[2022-06-02 16:02:42] AppID 108600 update changed : Running,
+[2022-06-02 16:02:42] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:42] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 18 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:42] AppID 108600 update changed : Running,
+[2022-06-02 16:02:42] AppID 108600 update changed : None
+[2022-06-02 16:02:42] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:43] AppID 108600 scheduler update : Priority First, not played for 1654174963 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:43] AppID 108600 update changed : Running,
+[2022-06-02 16:02:43] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:44] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): cache2-fra1.steamcontent.com/depot/108600/manifest/2757941466277817870/5/16666445212379397218 - received 200 (OK) HTTP response
+[2022-06-02 16:02:44] AppID 108600 update changed : Running,
+[2022-06-02 16:02:44] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:44] AppID 108600 update changed : Running,
+[2022-06-02 16:02:44] AppID 108600 update started : download 0/25676912, store 0/0, reuse 0/2708, delta 0/0, stage 0/27126430 
+[2022-06-02 16:02:44] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:44] Downloading 120 chunks from depot 108600
+[2022-06-02 16:02:46] Current download rate: 19.928 Mbps
+[2022-06-02 16:02:52] AppID 108600 update changed : Running,
+[2022-06-02 16:02:52] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:52] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 148 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:52] AppID 108600 update changed : Running,
+[2022-06-02 16:02:52] AppID 108600 update changed : None
+[2022-06-02 16:02:52] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:53] AppID 108600 scheduler update : Priority First, not played for 1654174973 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:53] AppID 108600 update changed : Running,
+[2022-06-02 16:02:53] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:54] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): cache2-fra1.steamcontent.com/depot/108600/manifest/8188405924655089714/5/10218543638076417915 - received 200 (OK) HTTP response
+[2022-06-02 16:02:54] AppID 108600 update changed : Running,
+[2022-06-02 16:02:54] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:54] AppID 108600 update changed : Running,
+[2022-06-02 16:02:54] AppID 108600 update started : download 0/2615024, store 0/0, reuse 0/1638917, delta 0/0, stage 0/4789063 
+[2022-06-02 16:02:54] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:54] Downloading 38 chunks from depot 108600
+[2022-06-02 16:02:55] AppID 108600 update changed : Running,
+[2022-06-02 16:02:55] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:55] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 61 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:55] AppID 108600 update changed : Running,
+[2022-06-02 16:02:55] AppID 108600 update changed : None
+[2022-06-02 16:02:55] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:56] AppID 108600 scheduler update : Priority First, not played for 1654174976 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:56] AppID 108600 update changed : Running,
+[2022-06-02 16:02:56] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:57] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): cache2-fra1.steamcontent.com/depot/108600/manifest/8448933515192784885/5/12607035451166499186 - received 200 (OK) HTTP response
+[2022-06-02 16:02:57] AppID 108600 update changed : Running,
+[2022-06-02 16:02:57] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:02:57] AppID 108600 update changed : Running,
+[2022-06-02 16:02:57] AppID 108600 update started : download 0/5072544, store 0/0, reuse 0/0, delta 0/0, stage 0/5337585 
+[2022-06-02 16:02:57] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:02:57] Downloading 50 chunks from depot 108600
+[2022-06-02 16:02:58] AppID 108600 update changed : Running,
+[2022-06-02 16:02:58] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:02:58] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 68 updated, 0 moved, 0 deleted files
+[2022-06-02 16:02:58] AppID 108600 update changed : Running,
+[2022-06-02 16:02:58] AppID 108600 update changed : None
+[2022-06-02 16:02:58] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:02:59] AppID 108600 scheduler update : Priority First, not played for 1654174979 seconds, update disabled for 0 seconds
+[2022-06-02 16:02:59] AppID 108600 update changed : Running,
+[2022-06-02 16:02:59] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:02:59] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): cache2-fra2.steamcontent.com/depot/108600/manifest/8029033072037161000/5/3122101908041428311 - received 200 (OK) HTTP response
+[2022-06-02 16:03:00] AppID 108600 update changed : Running,
+[2022-06-02 16:03:00] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:00] AppID 108600 update changed : Running,
+[2022-06-02 16:03:00] AppID 108600 update started : download 0/1271232, store 0/0, reuse 0/0, delta 0/0, stage 0/2578980 
+[2022-06-02 16:03:00] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:00] Downloading 22 chunks from depot 108600
+[2022-06-02 16:03:01] AppID 108600 update changed : Running,
+[2022-06-02 16:03:01] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:01] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 37 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:01] AppID 108600 update changed : Running,
+[2022-06-02 16:03:01] AppID 108600 update changed : None
+[2022-06-02 16:03:01] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:02] AppID 108600 scheduler update : Priority First, not played for 1654174982 seconds, update disabled for 0 seconds
+[2022-06-02 16:03:02] AppID 108600 update changed : Running,
+[2022-06-02 16:03:02] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:03:03] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): cache2-fra2.steamcontent.com/depot/108600/manifest/9013333161533910114/5/4549778964784254616 - received 200 (OK) HTTP response
+[2022-06-02 16:03:03] AppID 108600 update changed : Running,
+[2022-06-02 16:03:03] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:03] AppID 108600 update changed : Running,
+[2022-06-02 16:03:03] AppID 108600 update started : download 0/8432720, store 0/0, reuse 0/0, delta 0/0, stage 0/9329264 
+[2022-06-02 16:03:03] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:03] Downloading 99 chunks from depot 108600
+[2022-06-02 16:03:05] AppID 108600 update changed : Running,
+[2022-06-02 16:03:05] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:05] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 140 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:05] AppID 108600 update changed : Running,
+[2022-06-02 16:03:05] AppID 108600 update changed : None
+[2022-06-02 16:03:05] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:05] AppID 108600 scheduler update : Priority First, not played for 1654174985 seconds, update disabled for 0 seconds
+[2022-06-02 16:03:05] AppID 108600 update changed : Running,
+[2022-06-02 16:03:05] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:03:06] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): cache2-fra1.steamcontent.com/depot/108600/manifest/2855085700125558899/5/16496810563005192765 - received 200 (OK) HTTP response
+[2022-06-02 16:03:07] AppID 108600 update changed : Running,
+[2022-06-02 16:03:07] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:07] AppID 108600 update changed : Running,
+[2022-06-02 16:03:07] AppID 108600 update started : download 0/17510384, store 0/0, reuse 0/576044, delta 0/0, stage 0/22803800 
+[2022-06-02 16:03:07] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:07] Downloading 161 chunks from depot 108600
+[2022-06-02 16:03:10] AppID 108600 update changed : Running,
+[2022-06-02 16:03:10] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:10] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 223 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:10] AppID 108600 update changed : Running,
+[2022-06-02 16:03:10] AppID 108600 update changed : None
+[2022-06-02 16:03:10] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:10] AppID 108600 scheduler update : Priority First, not played for 1654174990 seconds, update disabled for 0 seconds
+[2022-06-02 16:03:10] AppID 108600 update changed : Running,
+[2022-06-02 16:03:10] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:03:11] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): cache4-fra1.steamcontent.com/depot/108600/manifest/890421510263766089/5/12445012997881498781 - received 200 (OK) HTTP response
+[2022-06-02 16:03:11] AppID 108600 update changed : Running,
+[2022-06-02 16:03:11] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:11] AppID 108600 update changed : Running,
+[2022-06-02 16:03:11] AppID 108600 update started : download 0/9495104, store 0/0, reuse 0/723005, delta 0/0, stage 0/11708450 
+[2022-06-02 16:03:11] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:11] Downloading 127 chunks from depot 108600
+[2022-06-02 16:03:13] AppID 108600 update changed : Running,
+[2022-06-02 16:03:13] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:13] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 203 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:13] AppID 108600 update changed : Running,
+[2022-06-02 16:03:13] AppID 108600 update changed : None
+[2022-06-02 16:03:13] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:13] AppID 108600 scheduler update : Priority First, not played for 1654174993 seconds, update disabled for 0 seconds
+[2022-06-02 16:03:13] AppID 108600 update changed : Running,
+[2022-06-02 16:03:13] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:03:15] HTTP (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:80 / 162.254.197.6:80, host: cache1-fra1.steamcontent.com): cache1-fra1.steamcontent.com/depot/108600/manifest/8273388624774393515/5/12973881203792206479 - received 200 (OK) HTTP response
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,
+[2022-06-02 16:03:15] AppID 108600 update started : download 0/87360, store 0/0, reuse 0/0, delta 0/0, stage 0/134169 
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:15] Downloading 22 chunks from depot 108600
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:15] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 36 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:15] AppID 108600 update changed : Running,
+[2022-06-02 16:03:15] AppID 108600 update changed : None
+[2022-06-02 16:03:15] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:16] AppID 108600 scheduler update : Priority First, not played for 1654174996 seconds, update disabled for 0 seconds
+[2022-06-02 16:03:16] AppID 108600 update changed : Running,
+[2022-06-02 16:03:16] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:03:17] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): cache2-fra1.steamcontent.com/depot/108600/manifest/2419917384359416509/5/2475729017595934785 - received 200 (OK) HTTP response
+[2022-06-02 16:03:17] AppID 108600 update changed : Running,
+[2022-06-02 16:03:17] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:03:17] AppID 108600 update changed : Running,
+[2022-06-02 16:03:17] AppID 108600 update started : download 0/1881040, store 0/0, reuse 0/0, delta 0/0, stage 0/1984444 
+[2022-06-02 16:03:17] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:03:17] Downloading 8 chunks from depot 108600
+[2022-06-02 16:03:19] AppID 108600 update changed : Running,
+[2022-06-02 16:03:19] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:03:19] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 18 updated, 0 moved, 0 deleted files
+[2022-06-02 16:03:19] AppID 108600 update changed : Running,
+[2022-06-02 16:03:19] AppID 108600 update changed : None
+[2022-06-02 16:03:19] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:03:19] HTTP (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:80 / 162.254.197.6:80, host: cache1-fra1.steamcontent.com): Closing connection
+[2022-06-02 16:03:19] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:80 / 162.254.197.4:80, host: cache7-fra1.steamcontent.com): Closing connection
+[2022-06-02 16:03:19] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): Closing connection
+[2022-06-02 16:03:19] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): Closing connection
+[2022-06-02 16:03:19] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+
+
+[2022-06-02 16:07:57] Loaded 0 apps from install folder "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\appmanifest_*.acf".
+[2022-06-02 16:07:59] AppID 108600 scheduler update : Priority First, not played for 1654175279 seconds, update disabled for 0 seconds
+[2022-06-02 16:07:59] AppID 108600 update changed : Running,
+[2022-06-02 16:07:59] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:08:00] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 16 / Launcher 3)
+[2022-06-02 16:08:00] Created download interface of type 'SteamCache' (7) to host cache6-fra1.steamcontent.com (cache6-fra1.steamcontent.com)
+[2022-06-02 16:08:00] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2022-06-02 16:08:00] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2022-06-02 16:08:00] Created ipv4-only http client
+[2022-06-02 16:08:00] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): cache6-fra1.steamcontent.com/depot/108600/manifest/4550546453296723211/5/1072700299019447115 - received 200 (OK) HTTP response
+[2022-06-02 16:08:00] AppID 108600 update changed : Running,
+[2022-06-02 16:08:00] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:08:00] AppID 108600 update changed : Running,
+[2022-06-02 16:08:01] AppID 108600 update started : download 0/12506656, store 0/0, reuse 0/1669326, delta 0/0, stage 0/15363159 
+[2022-06-02 16:08:01] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:08:01] Downloading 146 chunks from depot 108600
+[2022-06-02 16:08:04] AppID 108600 update changed : Running,
+[2022-06-02 16:08:04] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:08:04] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 226 updated, 0 moved, 0 deleted files
+[2022-06-02 16:08:04] AppID 108600 update changed : Running,
+[2022-06-02 16:08:04] AppID 108600 update changed : None
+[2022-06-02 16:08:04] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:08:05] AppID 108600 scheduler update : Priority First, not played for 1654175285 seconds, update disabled for 0 seconds
+[2022-06-02 16:08:05] AppID 108600 update changed : Running,
+[2022-06-02 16:08:05] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:08:05] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): cache6-fra1.steamcontent.com/depot/108600/manifest/7883487075611680093/5/6988118333130543862 - received 200 (OK) HTTP response
+[2022-06-02 16:08:05] AppID 108600 update changed : Running,
+[2022-06-02 16:08:05] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:08:06] AppID 108600 update changed : Running,
+[2022-06-02 16:08:06] AppID 108600 update started : download 0/45520, store 0/0, reuse 0/0, delta 0/0, stage 0/62996 
+[2022-06-02 16:08:06] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:08:06] Downloading 8 chunks from depot 108600
+[2022-06-02 16:08:06] AppID 108600 update changed : Running,
+[2022-06-02 16:08:06] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:08:06] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 16 updated, 0 moved, 0 deleted files
+[2022-06-02 16:08:06] AppID 108600 update changed : Running,
+[2022-06-02 16:08:06] AppID 108600 update changed : None
+[2022-06-02 16:08:06] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:08:07] AppID 108600 scheduler update : Priority First, not played for 1654175287 seconds, update disabled for 0 seconds
+[2022-06-02 16:08:07] AppID 108600 update changed : Running,
+[2022-06-02 16:08:07] AppID 108600 update changed : Running,Reconfiguring,
+[2022-06-02 16:08:07] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): cache6-fra1.steamcontent.com/depot/108600/manifest/7937625344443240827/5/14061014908425661898 - received 200 (OK) HTTP response
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,Preallocating,
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,
+[2022-06-02 16:08:08] AppID 108600 update started : download 0/158112, store 0/0, reuse 0/0, delta 0/0, stage 0/174607 
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,Downloading,Staging,
+[2022-06-02 16:08:08] Downloading 54 chunks from depot 108600
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,Committing,
+[2022-06-02 16:08:08] AppID 108600 starting commit from "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/downloads/108600" to "C:\Users\Tudor\Desktop\steamd\steamcmd\steamapps\workshop/content/108600" : 63 updated, 0 moved, 0 deleted files
+[2022-06-02 16:08:08] AppID 108600 update changed : Running,
+[2022-06-02 16:08:08] AppID 108600 update changed : None
+[2022-06-02 16:08:08] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2022-06-02 16:08:09] HTTP (SteamCache,250) - cache1-fra2.steamcontent.com (155.133.226.2:443 / 155.133.226.2:443, host: cache1-fra2.steamcontent.com): Closing connection
+[2022-06-02 16:08:09] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): Closing connection
+[2022-06-02 16:08:09] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): Closing connection

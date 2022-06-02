@@ -1,0 +1,7 @@
+IGUI_EN = {
+	IGUI_ExcludeRotten = "Exclude Rotten",
+	IGUI_IncludeExclude_Info = "Note: Exclude only works if the item's category is set.",
+	IGUI_Include = "Include",
+	IGUI_Exclude = "Exclude",
+	IGUI_Unassign = "Unassign",
+}

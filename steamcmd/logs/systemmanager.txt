@@ -1,0 +1,545 @@
+
+
+[2022-06-02 06:36:41] Initializing System Manager
+[2022-06-02 06:36:41] Node mode active on resume 0
+[2022-06-02 06:36:41] wifi power management: 1
+
+
+[2022-06-02 06:37:22] Initializing System Manager
+[2022-06-02 06:37:22] Node mode active on resume 0
+[2022-06-02 06:37:22] wifi power management: 1
+
+
+[2022-06-02 06:56:54] Initializing System Manager
+[2022-06-02 06:56:54] Node mode active on resume 0
+[2022-06-02 06:56:54] wifi power management: 1
+
+
+[2022-06-02 06:57:20] Initializing System Manager
+[2022-06-02 06:57:20] Node mode active on resume 0
+[2022-06-02 06:57:20] wifi power management: 1
+
+
+[2022-06-02 06:58:42] Initializing System Manager
+[2022-06-02 06:58:42] Node mode active on resume 0
+[2022-06-02 06:58:42] wifi power management: 1
+
+
+[2022-06-02 06:59:03] Initializing System Manager
+[2022-06-02 06:59:03] Node mode active on resume 0
+[2022-06-02 06:59:03] wifi power management: 1
+
+
+[2022-06-02 06:59:27] Initializing System Manager
+[2022-06-02 06:59:27] Node mode active on resume 0
+[2022-06-02 06:59:27] wifi power management: 1
+
+
+[2022-06-02 06:59:50] Initializing System Manager
+[2022-06-02 06:59:50] Node mode active on resume 0
+[2022-06-02 06:59:50] wifi power management: 1
+
+
+[2022-06-02 07:00:38] Initializing System Manager
+[2022-06-02 07:00:38] Node mode active on resume 0
+[2022-06-02 07:00:38] wifi power management: 1
+
+
+[2022-06-02 07:00:48] Initializing System Manager
+[2022-06-02 07:00:48] Node mode active on resume 0
+[2022-06-02 07:00:48] wifi power management: 1
+
+
+[2022-06-02 07:00:57] Initializing System Manager
+[2022-06-02 07:00:57] Node mode active on resume 0
+[2022-06-02 07:00:57] wifi power management: 1
+
+
+[2022-06-02 07:01:26] Initializing System Manager
+[2022-06-02 07:01:26] Node mode active on resume 0
+[2022-06-02 07:01:26] wifi power management: 1
+
+
+[2022-06-02 07:06:38] Initializing System Manager
+[2022-06-02 07:06:38] Node mode active on resume 0
+[2022-06-02 07:06:38] wifi power management: 1
+
+
+[2022-06-02 07:08:14] Initializing System Manager
+[2022-06-02 07:08:14] Node mode active on resume 0
+[2022-06-02 07:08:14] wifi power management: 1
+
+
+[2022-06-02 07:09:53] Initializing System Manager
+[2022-06-02 07:09:53] Node mode active on resume 0
+[2022-06-02 07:09:53] wifi power management: 1
+
+
+[2022-06-02 07:10:21] Initializing System Manager
+[2022-06-02 07:10:21] Node mode active on resume 0
+[2022-06-02 07:10:21] wifi power management: 1
+
+
+[2022-06-02 07:10:49] Initializing System Manager
+[2022-06-02 07:10:49] Node mode active on resume 0
+[2022-06-02 07:10:49] wifi power management: 1
+
+
+[2022-06-02 07:11:17] Initializing System Manager
+[2022-06-02 07:11:17] Node mode active on resume 0
+[2022-06-02 07:11:17] wifi power management: 1
+
+
+[2022-06-02 07:11:48] Initializing System Manager
+[2022-06-02 07:11:48] Node mode active on resume 0
+[2022-06-02 07:11:48] wifi power management: 1
+
+
+[2022-06-02 07:12:34] Initializing System Manager
+[2022-06-02 07:12:34] Node mode active on resume 0
+[2022-06-02 07:12:34] wifi power management: 1
+
+
+[2022-06-02 07:12:49] Initializing System Manager
+[2022-06-02 07:12:49] Node mode active on resume 0
+[2022-06-02 07:12:49] wifi power management: 1
+
+
+[2022-06-02 07:16:00] Initializing System Manager
+[2022-06-02 07:16:00] Node mode active on resume 0
+[2022-06-02 07:16:00] wifi power management: 1
+
+
+[2022-06-02 07:16:55] Initializing System Manager
+[2022-06-02 07:16:55] Node mode active on resume 0
+[2022-06-02 07:16:55] wifi power management: 1
+
+
+[2022-06-02 07:17:22] Initializing System Manager
+[2022-06-02 07:17:22] Node mode active on resume 0
+[2022-06-02 07:17:22] wifi power management: 1
+
+
+[2022-06-02 07:17:43] Initializing System Manager
+[2022-06-02 07:17:43] Node mode active on resume 0
+[2022-06-02 07:17:43] wifi power management: 1
+
+
+[2022-06-02 07:18:07] Initializing System Manager
+[2022-06-02 07:18:07] Node mode active on resume 0
+[2022-06-02 07:18:07] wifi power management: 1
+
+
+[2022-06-02 07:21:36] Initializing System Manager
+[2022-06-02 07:21:36] Node mode active on resume 0
+[2022-06-02 07:21:36] wifi power management: 1
+
+
+[2022-06-02 07:21:52] Initializing System Manager
+[2022-06-02 07:21:52] Node mode active on resume 0
+[2022-06-02 07:21:52] wifi power management: 1
+
+
+[2022-06-02 07:22:24] Initializing System Manager
+[2022-06-02 07:22:24] Node mode active on resume 0
+[2022-06-02 07:22:24] wifi power management: 1
+
+
+[2022-06-02 07:22:33] Initializing System Manager
+[2022-06-02 07:22:33] Node mode active on resume 0
+[2022-06-02 07:22:33] wifi power management: 1
+
+
+[2022-06-02 07:22:44] Initializing System Manager
+[2022-06-02 07:22:44] Node mode active on resume 0
+[2022-06-02 07:22:44] wifi power management: 1
+
+
+[2022-06-02 09:27:50] Initializing System Manager
+[2022-06-02 09:27:50] Node mode active on resume 0
+[2022-06-02 09:27:50] wifi power management: 1
+
+
+[2022-06-02 09:28:04] Initializing System Manager
+[2022-06-02 09:28:04] Node mode active on resume 0
+[2022-06-02 09:28:04] wifi power management: 1
+
+
+[2022-06-02 09:28:43] Initializing System Manager
+[2022-06-02 09:28:43] Node mode active on resume 0
+[2022-06-02 09:28:43] wifi power management: 1
+
+
+[2022-06-02 09:30:04] Initializing System Manager
+[2022-06-02 09:30:04] Node mode active on resume 0
+[2022-06-02 09:30:04] wifi power management: 1
+
+
+[2022-06-02 09:32:45] Initializing System Manager
+[2022-06-02 09:32:45] Node mode active on resume 0
+[2022-06-02 09:32:45] wifi power management: 1
+
+
+[2022-06-02 09:32:56] Initializing System Manager
+[2022-06-02 09:32:56] Node mode active on resume 0
+[2022-06-02 09:32:56] wifi power management: 1
+
+
+[2022-06-02 09:33:34] Initializing System Manager
+[2022-06-02 09:33:34] Node mode active on resume 0
+[2022-06-02 09:33:34] wifi power management: 1
+
+
+[2022-06-02 09:34:26] Initializing System Manager
+[2022-06-02 09:34:26] Node mode active on resume 0
+[2022-06-02 09:34:26] wifi power management: 1
+
+
+[2022-06-02 09:34:43] Initializing System Manager
+[2022-06-02 09:34:43] Node mode active on resume 0
+[2022-06-02 09:34:43] wifi power management: 1
+
+
+[2022-06-02 09:36:05] Initializing System Manager
+[2022-06-02 09:36:05] Node mode active on resume 0
+[2022-06-02 09:36:05] wifi power management: 1
+
+
+[2022-06-02 09:36:24] Initializing System Manager
+[2022-06-02 09:36:24] Node mode active on resume 0
+[2022-06-02 09:36:24] wifi power management: 1
+
+
+[2022-06-02 09:36:42] Initializing System Manager
+[2022-06-02 09:36:42] Node mode active on resume 0
+[2022-06-02 09:36:42] wifi power management: 1
+
+
+[2022-06-02 09:36:57] Initializing System Manager
+[2022-06-02 09:36:57] Node mode active on resume 0
+[2022-06-02 09:36:57] wifi power management: 1
+
+
+[2022-06-02 09:37:14] Initializing System Manager
+[2022-06-02 09:37:14] Node mode active on resume 0
+[2022-06-02 09:37:14] wifi power management: 1
+
+
+[2022-06-02 09:37:34] Initializing System Manager
+[2022-06-02 09:37:34] Node mode active on resume 0
+[2022-06-02 09:37:34] wifi power management: 1
+
+
+[2022-06-02 09:38:29] Initializing System Manager
+[2022-06-02 09:38:29] Node mode active on resume 0
+[2022-06-02 09:38:29] wifi power management: 1
+
+
+[2022-06-02 09:38:47] Initializing System Manager
+[2022-06-02 09:38:47] Node mode active on resume 0
+[2022-06-02 09:38:47] wifi power management: 1
+
+
+[2022-06-02 09:40:38] Initializing System Manager
+[2022-06-02 09:40:38] Node mode active on resume 0
+[2022-06-02 09:40:38] wifi power management: 1
+
+
+[2022-06-02 09:41:46] Initializing System Manager
+[2022-06-02 09:41:46] Node mode active on resume 0
+[2022-06-02 09:41:46] wifi power management: 1
+
+
+[2022-06-02 09:42:16] Initializing System Manager
+[2022-06-02 09:42:16] Node mode active on resume 0
+[2022-06-02 09:42:16] wifi power management: 1
+
+
+[2022-06-02 09:43:01] Initializing System Manager
+[2022-06-02 09:43:01] Node mode active on resume 0
+[2022-06-02 09:43:01] wifi power management: 1
+
+
+[2022-06-02 09:43:19] Initializing System Manager
+[2022-06-02 09:43:19] Node mode active on resume 0
+[2022-06-02 09:43:19] wifi power management: 1
+
+
+[2022-06-02 09:43:35] Initializing System Manager
+[2022-06-02 09:43:35] Node mode active on resume 0
+[2022-06-02 09:43:35] wifi power management: 1
+
+
+[2022-06-02 09:50:26] Initializing System Manager
+[2022-06-02 09:50:26] Node mode active on resume 0
+[2022-06-02 09:50:26] wifi power management: 1
+
+
+[2022-06-02 09:53:05] Initializing System Manager
+[2022-06-02 09:53:05] Node mode active on resume 0
+[2022-06-02 09:53:05] wifi power management: 1
+
+
+[2022-06-02 09:53:28] Initializing System Manager
+[2022-06-02 09:53:28] Node mode active on resume 0
+[2022-06-02 09:53:28] wifi power management: 1
+
+
+[2022-06-02 09:53:49] Initializing System Manager
+[2022-06-02 09:53:49] Node mode active on resume 0
+[2022-06-02 09:53:49] wifi power management: 1
+
+
+[2022-06-02 10:04:45] Initializing System Manager
+[2022-06-02 10:04:45] Node mode active on resume 0
+[2022-06-02 10:04:45] wifi power management: 1
+
+
+[2022-06-02 10:05:46] Initializing System Manager
+[2022-06-02 10:05:46] Node mode active on resume 0
+[2022-06-02 10:05:46] wifi power management: 1
+
+
+[2022-06-02 10:06:11] Initializing System Manager
+[2022-06-02 10:06:11] Node mode active on resume 0
+[2022-06-02 10:06:11] wifi power management: 1
+
+
+[2022-06-02 10:09:50] Initializing System Manager
+[2022-06-02 10:09:50] Node mode active on resume 0
+[2022-06-02 10:09:50] wifi power management: 1
+
+
+[2022-06-02 10:16:31] Initializing System Manager
+[2022-06-02 10:16:31] Node mode active on resume 0
+[2022-06-02 10:16:31] wifi power management: 1
+
+
+[2022-06-02 10:18:47] Initializing System Manager
+[2022-06-02 10:18:47] Node mode active on resume 0
+[2022-06-02 10:18:47] wifi power management: 1
+
+
+[2022-06-02 10:19:49] Initializing System Manager
+[2022-06-02 10:19:49] Node mode active on resume 0
+[2022-06-02 10:19:49] wifi power management: 1
+
+
+[2022-06-02 10:21:52] Initializing System Manager
+[2022-06-02 10:21:52] Node mode active on resume 0
+[2022-06-02 10:21:52] wifi power management: 1
+
+
+[2022-06-02 10:24:37] Initializing System Manager
+[2022-06-02 10:24:37] Node mode active on resume 0
+[2022-06-02 10:24:37] wifi power management: 1
+
+
+[2022-06-02 10:25:06] Initializing System Manager
+[2022-06-02 10:25:06] Node mode active on resume 0
+[2022-06-02 10:25:06] wifi power management: 1
+
+
+[2022-06-02 10:25:42] Initializing System Manager
+[2022-06-02 10:25:42] Node mode active on resume 0
+[2022-06-02 10:25:42] wifi power management: 1
+
+
+[2022-06-02 10:26:30] Initializing System Manager
+[2022-06-02 10:26:30] Node mode active on resume 0
+[2022-06-02 10:26:30] wifi power management: 1
+
+
+[2022-06-02 10:27:48] Initializing System Manager
+[2022-06-02 10:27:48] Node mode active on resume 0
+[2022-06-02 10:27:48] wifi power management: 1
+
+
+[2022-06-02 10:29:26] Initializing System Manager
+[2022-06-02 10:29:26] Node mode active on resume 0
+[2022-06-02 10:29:26] wifi power management: 1
+
+
+[2022-06-02 10:29:47] Initializing System Manager
+[2022-06-02 10:29:47] Node mode active on resume 0
+[2022-06-02 10:29:47] wifi power management: 1
+
+
+[2022-06-02 10:30:09] Initializing System Manager
+[2022-06-02 10:30:09] Node mode active on resume 0
+[2022-06-02 10:30:09] wifi power management: 1
+
+
+[2022-06-02 10:30:30] Initializing System Manager
+[2022-06-02 10:30:30] Node mode active on resume 0
+[2022-06-02 10:30:30] wifi power management: 1
+
+
+[2022-06-02 10:31:08] Initializing System Manager
+[2022-06-02 10:31:08] Node mode active on resume 0
+[2022-06-02 10:31:08] wifi power management: 1
+
+
+[2022-06-02 10:31:57] Initializing System Manager
+[2022-06-02 10:31:57] Node mode active on resume 0
+[2022-06-02 10:31:57] wifi power management: 1
+
+
+[2022-06-02 10:32:04] Initializing System Manager
+[2022-06-02 10:32:04] Node mode active on resume 0
+[2022-06-02 10:32:04] wifi power management: 1
+
+
+[2022-06-02 14:05:46] Initializing System Manager
+[2022-06-02 14:05:46] Node mode active on resume 0
+[2022-06-02 14:05:46] wifi power management: 1
+
+
+[2022-06-02 14:06:46] Initializing System Manager
+[2022-06-02 14:06:46] Node mode active on resume 0
+[2022-06-02 14:06:46] wifi power management: 1
+
+
+[2022-06-02 14:35:41] Initializing System Manager
+[2022-06-02 14:35:41] Node mode active on resume 0
+[2022-06-02 14:35:41] wifi power management: 1
+
+
+[2022-06-02 14:35:56] Initializing System Manager
+[2022-06-02 14:35:56] Node mode active on resume 0
+[2022-06-02 14:35:56] wifi power management: 1
+
+
+[2022-06-02 14:37:26] Initializing System Manager
+[2022-06-02 14:37:26] Node mode active on resume 0
+[2022-06-02 14:37:26] wifi power management: 1
+
+
+[2022-06-02 14:38:11] Initializing System Manager
+[2022-06-02 14:38:11] Node mode active on resume 0
+[2022-06-02 14:38:11] wifi power management: 1
+
+
+[2022-06-02 14:41:03] Initializing System Manager
+[2022-06-02 14:41:03] Node mode active on resume 0
+[2022-06-02 14:41:03] wifi power management: 1
+
+
+[2022-06-02 14:41:19] Initializing System Manager
+[2022-06-02 14:41:19] Node mode active on resume 0
+[2022-06-02 14:41:19] wifi power management: 1
+
+
+[2022-06-02 14:46:46] Initializing System Manager
+[2022-06-02 14:46:46] Node mode active on resume 0
+[2022-06-02 14:46:46] wifi power management: 1
+
+
+[2022-06-02 14:47:19] Initializing System Manager
+[2022-06-02 14:47:19] Node mode active on resume 0
+[2022-06-02 14:47:19] wifi power management: 1
+
+
+[2022-06-02 14:48:02] Initializing System Manager
+[2022-06-02 14:48:02] Node mode active on resume 0
+[2022-06-02 14:48:02] wifi power management: 1
+
+
+[2022-06-02 14:48:40] Initializing System Manager
+[2022-06-02 14:48:40] Node mode active on resume 0
+[2022-06-02 14:48:40] wifi power management: 1
+
+
+[2022-06-02 14:48:57] Initializing System Manager
+[2022-06-02 14:48:57] Node mode active on resume 0
+[2022-06-02 14:48:57] wifi power management: 1
+
+
+[2022-06-02 14:50:44] Initializing System Manager
+[2022-06-02 14:50:44] Node mode active on resume 0
+[2022-06-02 14:50:44] wifi power management: 1
+
+
+[2022-06-02 14:51:43] Initializing System Manager
+[2022-06-02 14:51:43] Node mode active on resume 0
+[2022-06-02 14:51:43] wifi power management: 1
+
+
+[2022-06-02 14:52:58] Initializing System Manager
+[2022-06-02 14:52:58] Node mode active on resume 0
+[2022-06-02 14:52:58] wifi power management: 1
+
+
+[2022-06-02 14:53:34] Initializing System Manager
+[2022-06-02 14:53:34] Node mode active on resume 0
+[2022-06-02 14:53:34] wifi power management: 1
+
+
+[2022-06-02 14:54:17] Initializing System Manager
+[2022-06-02 14:54:17] Node mode active on resume 0
+[2022-06-02 14:54:17] wifi power management: 1
+
+
+[2022-06-02 14:55:06] Initializing System Manager
+[2022-06-02 14:55:06] Node mode active on resume 0
+[2022-06-02 14:55:06] wifi power management: 1
+
+
+[2022-06-02 14:55:45] Initializing System Manager
+[2022-06-02 14:55:45] Node mode active on resume 0
+[2022-06-02 14:55:45] wifi power management: 1
+
+
+[2022-06-02 14:56:54] Initializing System Manager
+[2022-06-02 14:56:54] Node mode active on resume 0
+[2022-06-02 14:56:54] wifi power management: 1
+
+
+[2022-06-02 14:57:45] Initializing System Manager
+[2022-06-02 14:57:45] Node mode active on resume 0
+[2022-06-02 14:57:45] wifi power management: 1
+
+
+[2022-06-02 14:58:33] Initializing System Manager
+[2022-06-02 14:58:33] Node mode active on resume 0
+[2022-06-02 14:58:33] wifi power management: 1
+
+
+[2022-06-02 14:59:28] Initializing System Manager
+[2022-06-02 14:59:28] Node mode active on resume 0
+[2022-06-02 14:59:28] wifi power management: 1
+
+
+[2022-06-02 15:00:26] Initializing System Manager
+[2022-06-02 15:00:26] Node mode active on resume 0
+[2022-06-02 15:00:26] wifi power management: 1
+
+
+[2022-06-02 15:00:44] Initializing System Manager
+[2022-06-02 15:00:44] Node mode active on resume 0
+[2022-06-02 15:00:44] wifi power management: 1
+
+
+[2022-06-02 15:00:55] Initializing System Manager
+[2022-06-02 15:00:55] Node mode active on resume 0
+[2022-06-02 15:00:55] wifi power management: 1
+
+
+[2022-06-02 15:01:45] Initializing System Manager
+[2022-06-02 15:01:45] Node mode active on resume 0
+[2022-06-02 15:01:45] wifi power management: 1
+
+
+[2022-06-02 15:04:40] Initializing System Manager
+[2022-06-02 15:04:40] Node mode active on resume 0
+[2022-06-02 15:04:40] wifi power management: 1
+
+
+[2022-06-02 16:00:27] Initializing System Manager
+[2022-06-02 16:00:27] Node mode active on resume 0
+[2022-06-02 16:00:27] wifi power management: 1
+
+
+[2022-06-02 16:07:56] Initializing System Manager
+[2022-06-02 16:07:56] Node mode active on resume 0
+[2022-06-02 16:07:56] wifi power management: 1

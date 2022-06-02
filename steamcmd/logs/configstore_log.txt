@@ -1,0 +1,1097 @@
+
+
+[2022-06-02 06:36:41] Failed to read store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf.tmp'
+[2022-06-02 06:36:41] Failed to read store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf.tmp'
+[2022-06-02 06:36:41] Failed to read store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf.tmp'
+[2022-06-02 06:36:42] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+
+
+[2022-06-02 06:37:22] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:37:22] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:37:22] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:37:40] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:37:41] Failed to read store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2022-06-02 06:37:41] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 06:37:42] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 06:37:43] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 06:37:56] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+
+
+[2022-06-02 06:56:54] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:56:54] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:56:54] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 06:57:20] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:57:20] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:57:20] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 06:58:42] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:58:42] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:58:42] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 06:59:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 06:59:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 06:59:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 06:59:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 07:00:38] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:38] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:38] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 07:00:48] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:48] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:48] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 07:00:57] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:57] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:00:57] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 07:01:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:01:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:01:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 07:06:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:06:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:06:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:06:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:06:39] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:06:40] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:06:40] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:06:40] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:08:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:08:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:08:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:08:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:08:15] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:08:16] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:08:16] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:08:16] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:08:17] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:09:53] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:09:53] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:09:53] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:09:53] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:09:54] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:09:55] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:09:55] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:09:55] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:09:56] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:10:21] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:21] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:21] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:21] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:22] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:22] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:10:22] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:10:23] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:10:24] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:10:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:50] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:10:50] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:10:50] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:10:51] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:10:52] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:11:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:18] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:18] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:11:18] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:11:18] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:11:19] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:11:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:11:50] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:11:50] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:11:50] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:11:52] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:12:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:36] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:12:36] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:12:36] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:12:37] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:12:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:50] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:12:50] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:12:51] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:12:51] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:12:52] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:16:00] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:00] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:00] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:00] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:01] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:01] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:16:02] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:16:02] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:16:03] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:16:55] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:55] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:55] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:55] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:56] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:16:56] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:16:56] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:16:57] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:16:58] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:17:22] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:22] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:22] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:22] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:23] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:24] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:17:24] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:17:24] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:17:25] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:17:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:17:45] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:17:45] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:17:45] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:17:46] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:18:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:18:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:18:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:18:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:18:08] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:18:08] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:18:09] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:18:09] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:18:10] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:21:36] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:36] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:36] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:36] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:37] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:37] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:21:37] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:21:38] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:21:39] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:21:52] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:52] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:52] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:52] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:53] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:21:54] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:21:54] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:21:54] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:21:55] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:22:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:25] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:25] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:22:25] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:22:26] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:22:27] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:22:33] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:33] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:35] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:22:35] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:22:36] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 07:22:37] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 07:22:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:45] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 07:22:45] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 07:22:45] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 07:22:46] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:27:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:27:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:27:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:27:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:27:51] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:27:52] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:27:52] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:27:52] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:27:53] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:28:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:06] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:28:06] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:28:06] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:28:07] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:28:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:28:45] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:28:45] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:28:45] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:28:46] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:30:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:30:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:30:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:30:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:30:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:30:05] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:30:05] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:30:06] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:30:06] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:32:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:47] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:32:47] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:32:47] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:32:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:32:56] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:56] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:32:58] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:32:58] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:32:58] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:33:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:33:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:33:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:33:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:33:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:33:35] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:33:35] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:33:35] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:33:36] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:34:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:27] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:27] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:34:27] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:34:28] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:34:28] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:34:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:44] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:34:45] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:34:45] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:34:46] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:34:46] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:36:05] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:05] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:05] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:05] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:07] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:36:07] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:36:07] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:36:08] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:36:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:24] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:25] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:26] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:36:26] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:36:26] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:36:27] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:36:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:44] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:36:44] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:36:44] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:36:45] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:36:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:58] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:58] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:58] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:36:59] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:36:59] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:36:59] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:37:00] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:37:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:14] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:15] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:16] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:37:16] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:37:16] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:37:17] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:37:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:37:36] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:37:36] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:37:36] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:38:29] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:29] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:29] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:29] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:30] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:30] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:38:30] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:38:31] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:38:31] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:38:47] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:47] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:38:49] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:38:49] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:38:50] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:38:50] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:40:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:40:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:40:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:40:38] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:40:39] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:40:40] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:40:40] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:40:40] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:40:41] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:41:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:41:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:41:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:41:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:41:47] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:41:47] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:41:47] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:41:48] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:41:48] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:42:16] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:42:16] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:42:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:42:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:42:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:42:18] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:42:18] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:42:19] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:42:19] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:43:01] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:01] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:01] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:01] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:02] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:02] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:43:03] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:43:03] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:43:04] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:43:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:20] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:21] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:43:21] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:43:21] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:43:22] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:43:35] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:35] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:35] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:35] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:36] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:43:37] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:43:37] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:43:37] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:43:38] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:50:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:50:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:50:27] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:50:27] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:50:27] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 09:53:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:05] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:06] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:06] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:53:06] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:53:07] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:53:07] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:53:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:29] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:29] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:53:29] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:53:29] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:53:30] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 09:53:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 09:53:50] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 09:53:50] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 09:53:51] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 09:53:51] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:04:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:04:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:04:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 10:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:05:47] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:05:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:05:48] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:05:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:05:49] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:06:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:06:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:06:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:06:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:06:12] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:06:12] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:06:12] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:06:13] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:09:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:09:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:09:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:09:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:09:51] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:09:52] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:09:52] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:09:52] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:09:53] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:16:31] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:16:31] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:16:31] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:16:31] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:16:32] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:16:33] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:16:33] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:16:34] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:16:34] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:18:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:18:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:18:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:18:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:18:48] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:18:49] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:18:49] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:18:49] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:18:50] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:19:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:19:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:19:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:19:49] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:19:50] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:19:50] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:19:51] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:19:51] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:19:52] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:21:52] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:21:52] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:21:52] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:21:52] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:21:53] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:21:54] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:21:54] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:21:54] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:21:55] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:24:37] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:24:37] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:24:37] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:24:37] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:24:38] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:24:38] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:24:39] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:24:39] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:24:40] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:25:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:08] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:25:08] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:25:08] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:25:09] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:25:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:42] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:43] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:25:44] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:25:44] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:25:44] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:25:45] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:26:30] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:26:30] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:26:30] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:26:30] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:26:31] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:26:31] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:26:31] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:26:32] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:26:33] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:27:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:27:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:27:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:27:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:27:49] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:27:49] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:27:49] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:27:50] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:27:51] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:29:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:26] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:27] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:27] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:29:28] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:29:28] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:29:29] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:29:47] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:47] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:48] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:29:48] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:29:49] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:29:49] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:29:50] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:30:09] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:09] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:09] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:09] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:10] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:30:10] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:11] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:30:11] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:30:12] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:30:30] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:30] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:30] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:30] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:31] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:30:31] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:30:31] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:30:32] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:30:33] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:31:08] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:08] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:08] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:08] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:09] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:09] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:31:09] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:31:09] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:31:11] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 10:31:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:31:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 10:32:04] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:32:04] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:32:04] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:32:04] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:32:05] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 10:32:06] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 10:32:06] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 10:32:06] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 10:32:07] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:05:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 14:06:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:06:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:06:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:06:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:06:47] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:06:48] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:06:48] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:06:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:06:50] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:07:22] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:07:52] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:08:22] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:08:52] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:09:22] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+
+
+[2022-06-02 14:35:41] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:41] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:41] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 14:35:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:57] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:35:58] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:35:58] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:35:58] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:35:59] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:37:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:37:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:37:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:37:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:37:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:37:27] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:37:28] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:37:28] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:37:28] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:38:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:38:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:38:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:38:11] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:38:12] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:38:12] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:38:13] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:38:13] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:38:14] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:41:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:03] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:04] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:04] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:41:04] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:41:05] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:41:05] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:41:19] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:19] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:41:19] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 14:46:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:46:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:46:46] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+
+
+[2022-06-02 14:47:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:47:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:47:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:47:19] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:47:20] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:47:20] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:47:21] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:47:21] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:47:21] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:48:02] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:02] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:02] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:02] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:03] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:03] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:48:03] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:48:04] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:48:05] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:48:40] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:40] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:40] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:40] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:41] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:41] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:48:41] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:48:42] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:48:42] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:48:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:57] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:58] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:48:59] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:48:59] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:48:59] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:49:00] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:50:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:50:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:50:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:50:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:50:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:50:45] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:50:45] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:50:45] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:50:46] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:51:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:51:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:51:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:51:43] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:51:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:51:44] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:51:44] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:51:45] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:51:45] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:52:58] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:52:58] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:52:58] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:52:58] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:52:59] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:00] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:53:00] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:53:00] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:53:01] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:53:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:34] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:35] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:53:36] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:53:36] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:53:37] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:53:37] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:54:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:54:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:54:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:54:17] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:54:18] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:54:18] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:54:18] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:54:18] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:54:19] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:55:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:06] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:07] Loaded store 'install' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:08] Loaded store 'userlocal' from 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:55:08] Flushed store 'install' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:55:08] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:55:09] Flushed store 'userlocal' to 'c:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:55:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:55:47] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:55:47] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:55:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:55:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:56:54] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:56:54] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:56:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:56:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:56:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:56:56] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:56:56] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:56:57] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:56:57] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:57:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:57:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:57:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:57:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:57:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:57:47] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:57:47] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:57:47] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:57:48] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:58:33] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:58:33] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:58:33] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:58:33] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:58:34] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:58:34] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:58:34] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:58:35] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:58:35] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 14:59:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:59:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:59:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:59:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:59:29] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 14:59:29] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 14:59:29] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 14:59:30] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 14:59:30] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 15:00:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:26] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:27] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 15:00:27] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 15:00:28] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 15:00:29] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 15:00:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:44] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:46] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 15:00:46] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 15:00:46] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 15:00:47] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 15:00:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:55] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:00:56] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 15:00:57] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 15:00:57] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 15:01:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:01:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:01:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:01:45] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:01:46] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:01:46] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 15:01:46] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 15:01:47] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 15:01:47] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 15:04:40] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:04:40] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:04:40] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:04:40] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:04:41] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 15:04:42] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 15:04:42] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 15:04:42] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 15:04:43] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2022-06-02 16:00:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:00:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:00:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:00:27] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:00:28] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:00:28] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 16:00:28] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:00:29] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 16:00:30] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 16:01:03] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:01:33] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:02:03] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:02:33] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:03:03] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+
+
+[2022-06-02 16:07:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:07:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:07:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:07:56] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:07:57] Loaded store 'install' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf' successfully
+[2022-06-02 16:07:57] Loaded store 'userlocal' from 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-06-02 16:07:58] Flushed store 'install' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\config\config.vdf'
+[2022-06-02 16:07:58] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2022-06-02 16:07:59] Flushed store 'userlocal' to 'C:\Users\Tudor\Desktop\steamd\steamcmd\userdata\anonymous\config\localconfig.vdf'

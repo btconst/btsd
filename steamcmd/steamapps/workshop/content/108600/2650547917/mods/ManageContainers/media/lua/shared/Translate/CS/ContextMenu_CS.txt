@@ -1,0 +1,4 @@
+ContextMenu_CS = {
+	ContextMenu_Put_Assigned_Containers= "Vložit do príslušných kontejneru",
+	ContextMenu_Configure_Container= "Nastavit kontejner",
+}

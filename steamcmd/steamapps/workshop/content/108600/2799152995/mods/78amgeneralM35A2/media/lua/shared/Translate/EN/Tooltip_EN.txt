@@ -1,0 +1,18 @@
+Tooltip_EN = {
+	Tooltip_item_runflats = "Universal military tires that will never pop but will lose traction when condition is low.",
+	Tooltip_item_M35A2runflats = "M35A2 military tires that will never pop but will lose traction when condition is low.",
+	Tooltip_item_M35A2axleflats = "M35A2 rear axle made up of 4 military tires that will never pop but will lose traction when condition is low.",
+	Tooltip_item_M35A2Muffler1 = "Reduces the noise of engine somewhat",
+	Tooltip_item_M35A2Sidewalls1 = "Cosmetic item, stake construction for M35A2 flatbed, can be used with tarp to craft soft cover",
+	Tooltip_item_M35A2Tarp2 = "Cosmetic item, soft tarp cover for M35A2 flatbed",
+	Tooltip_item_M35A2Sidewalls3 = "Cosmetic item, stake sidewalls for M35A2 flatbed",
+	Tooltip_item_M35A2Bumper1 = "Attach it to the front of M35A2 to protect the hood and engine.",
+	Tooltip_item_M35A2Grille1 = "Attach it to the front of M35A2 to protect the headlights.",
+	Tooltip_item_M35A2HardCover1 = "Cosmetic item, hard cover for M35A2 cab",
+	Tooltip_item_M35A2SoftCover2 = "Cosmetic item, soft tarp cover for M35A2 cab",
+	Tooltip_item_M35A2Windshield2 = "You can use scalpel to cut regular heavy duty windshields to make replacement M35A2 windshield.",
+	Tooltip_item_M35A2sideWindow2 = "You can use scalpel to cut regular heavy duty windows to make replacement M35A2 windows.",
+	Tooltip_item_M35A2WindshieldArmor1 = "Attach it to the front of M35A2 to protect the windshield.",
+	Tooltip_item_M35A2DoorArmor1 = "Attach it to front M35A2 doors to protect front doors and windows",
+	Tooltip_item_M35A2Mudflaps1 = "Cosmetic item, saves the guy behind you from dust and mud",
+}

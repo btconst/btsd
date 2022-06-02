@@ -1,0 +1,1331 @@
+
+
+[2022-06-02 06:37:41] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 06:37:42] Change number 0->14997135, apps: 0/0, packages: 0/0
+[2022-06-02 06:37:42] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 06:37:42] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2022-06-02 06:37:42] Requesting 0 apps, 1 packages (full data, 1024 prev attempts)
+[2022-06-02 06:37:42] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 1 (24 KB)
+[2022-06-02 06:37:42] Requesting 902 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 06:37:43] Requested 95 app access tokens, 46 received, 49 denied
+[2022-06-02 06:37:43] Updated SHAs with 46 new access tokens
+[2022-06-02 06:37:44] Downloaded 108 apps via HTTP, 2587 KB (649 KB compressed)
+[2022-06-02 06:37:44] Requesting 794 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 06:37:46] UpdatesJob: finished OK, apps updated 902 (4998 KB), packages updated 0 (0 KB)
+[2022-06-02 06:37:54] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 06:37:54] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 06:37:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:04:04] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:04:04] Packages changed: force all
+[2022-06-02 07:04:04] Apps changed: 1757500=14997249,739590=14997225,
+[2022-06-02 07:04:04] Change number 14997135->14997279, apps: 2/98, packages: 0/0
+[2022-06-02 07:04:04] Requesting 903 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:04:05] Requested 95 app access tokens, 46 received, 49 denied
+[2022-06-02 07:04:05] Updated SHAs with 46 new access tokens
+[2022-06-02 07:04:06] Downloaded 109 apps via HTTP, 2600 KB (653 KB compressed)
+[2022-06-02 07:04:06] Requesting 794 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 07:04:08] UpdatesJob: finished OK, apps updated 903 (5011 KB), packages updated 0 (0 KB)
+[2022-06-02 07:04:08] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:04:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:04:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:04:12] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3707888 bytes)
+
+
+[2022-06-02 07:05:27] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:05:28] Apps changed: 
+[2022-06-02 07:05:28] Change number 14997279->14997281, apps: 0/2, packages: 0/0
+[2022-06-02 07:05:28] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:05:28] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:05:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:05:28] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:05:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:05:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:06:09] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:06:10] Apps changed: 581330=14997282,
+[2022-06-02 07:06:10] Change number 14997281->14997284, apps: 1/3, packages: 0/0
+[2022-06-02 07:06:10] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:10] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:06:10] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-06-02 07:06:10] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-06-02 07:06:11] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:06:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:06:11] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3707888 bytes)
+
+
+[2022-06-02 07:06:22] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:06:22] Change number 14997284->14997284, apps: 0/0, packages: 0/0
+[2022-06-02 07:06:22] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:23] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:06:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:06:23] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:06:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:06:40] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:06:40] Change number 14997284->14997284, apps: 0/0, packages: 0/0
+[2022-06-02 07:06:40] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:41] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:06:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:06:41] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:06:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:06:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:08:16] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:08:16] Apps changed: 
+[2022-06-02 07:08:16] Change number 14997284->14997291, apps: 0/7, packages: 0/0
+[2022-06-02 07:08:16] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:08:17] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:08:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:08:17] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:08:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:08:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:09:55] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:09:55] Apps changed: 
+[2022-06-02 07:09:55] Change number 14997291->14997362, apps: 0/64, packages: 0/0
+[2022-06-02 07:09:55] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:09:56] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:09:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:09:56] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:09:56] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:09:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:10:22] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:10:22] Apps changed: 581330=14997368,1324780=14997366,
+[2022-06-02 07:10:22] Change number 14997362->14997368, apps: 2/5, packages: 0/0
+[2022-06-02 07:10:22] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:10:23] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:10:23] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-06-02 07:10:23] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 07:10:23] UpdatesJob: finished OK, apps updated 2 (16 KB), packages updated 0 (0 KB)
+[2022-06-02 07:10:23] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:10:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:10:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:10:24] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3707889 bytes)
+
+
+[2022-06-02 07:10:50] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:10:51] Apps changed: 1324780=14997370,
+[2022-06-02 07:10:51] Change number 14997368->14997372, apps: 1/3, packages: 0/0
+[2022-06-02 07:10:51] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:10:51] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:10:51] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 07:10:51] UpdatesJob: finished OK, apps updated 1 (6 KB), packages updated 0 (0 KB)
+[2022-06-02 07:10:52] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:10:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:10:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:10:52] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3707889 bytes)
+
+
+[2022-06-02 07:11:18] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:11:18] Apps changed: 
+[2022-06-02 07:11:18] Change number 14997372->14997373, apps: 0/1, packages: 0/0
+[2022-06-02 07:11:18] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:11:18] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:11:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:11:19] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:11:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:11:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:11:50] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:11:50] Apps changed: 
+[2022-06-02 07:11:50] Change number 14997373->14997374, apps: 0/1, packages: 0/0
+[2022-06-02 07:11:50] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:11:51] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:11:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:11:51] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:11:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:11:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:12:36] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:12:36] Apps changed: 
+[2022-06-02 07:12:36] Change number 14997374->14997379, apps: 0/5, packages: 0/0
+[2022-06-02 07:12:36] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:12:37] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:12:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:12:37] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:12:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:12:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:12:50] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:12:51] Apps changed: 
+[2022-06-02 07:12:51] Change number 14997379->14997382, apps: 0/3, packages: 0/0
+[2022-06-02 07:12:51] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:12:51] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:12:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:12:51] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:12:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:12:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:16:02] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:16:02] Apps changed: 
+[2022-06-02 07:16:02] Change number 14997382->14997392, apps: 0/9, packages: 0/0
+[2022-06-02 07:16:02] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:02] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:16:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:16:03] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:16:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:16:03] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:16:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:16:56] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:16:56] Apps changed: 
+[2022-06-02 07:16:56] Change number 14997392->14997399, apps: 0/7, packages: 0/0
+[2022-06-02 07:16:56] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:57] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:16:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:16:57] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:16:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:16:58] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:16:58] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:16:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:17:24] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:17:24] Apps changed: 
+[2022-06-02 07:17:24] Change number 14997399->14997403, apps: 0/4, packages: 0/0
+[2022-06-02 07:17:24] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:25] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:17:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:17:25] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:17:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:17:25] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:17:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:17:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:17:45] Apps changed: 
+[2022-06-02 07:17:45] Change number 14997403->14997404, apps: 0/1, packages: 0/0
+[2022-06-02 07:17:45] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:17:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:17:46] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:17:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:17:47] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:17:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:17:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:18:08] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:18:09] Apps changed: 
+[2022-06-02 07:18:09] Change number 14997404->14997405, apps: 0/1, packages: 0/0
+[2022-06-02 07:18:09] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:18:09] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:18:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:18:09] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:18:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:18:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:18:10] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:18:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:18:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:21:37] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:21:38] Apps changed: 
+[2022-06-02 07:21:38] Change number 14997405->14997422, apps: 0/14, packages: 0/0
+[2022-06-02 07:21:38] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:38] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:21:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:21:38] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:21:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:21:39] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:21:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:21:54] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:21:54] Apps changed: 
+[2022-06-02 07:21:54] Change number 14997422->14997425, apps: 0/3, packages: 0/0
+[2022-06-02 07:21:54] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:55] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:21:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:21:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:21:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:21:56] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:21:56] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:21:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:22:25] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:22:25] Packages changed: 
+[2022-06-02 07:22:25] Apps changed: 
+[2022-06-02 07:22:25] Change number 14997425->14997431, apps: 0/4, packages: 0/2
+[2022-06-02 07:22:25] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:26] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:22:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:26] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:27] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:22:35] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:22:35] Apps changed: 
+[2022-06-02 07:22:35] Change number 14997431->14997434, apps: 0/3, packages: 0/0
+[2022-06-02 07:22:36] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:36] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:22:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:36] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:36] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:37] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 07:22:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 07:22:46] Change number 14997434->14997434, apps: 0/0, packages: 0/0
+[2022-06-02 07:22:46] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 07:22:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:46] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 07:22:47] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 07:22:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 07:22:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:27:52] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:27:52] Packages changed: force all
+[2022-06-02 09:27:52] Apps changed: 1670340=14998100,443030=14998022,440900=14998008,714010=14997856,882430=14997731,780290=14997677,1757500=14997674,434520=14997661,346110=14997545,1064780=14997527,563560=14997455,582400=14997455,
+[2022-06-02 09:27:52] Change number 14997434->14998201, apps: 12/487, packages: 0/0
+[2022-06-02 09:27:52] Requesting 62 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:27:53] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:27:53] Downloaded 7 apps via HTTP, 172 KB (46 KB compressed)
+[2022-06-02 09:27:53] Requesting 5 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 09:27:53] UpdatesJob: finished OK, apps updated 12 (186 KB), packages updated 0 (0 KB)
+[2022-06-02 09:27:53] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705708 bytes)
+
+
+[2022-06-02 09:28:06] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:28:06] Apps changed: 
+[2022-06-02 09:28:06] Change number 14998201->14998202, apps: 0/1, packages: 0/0
+[2022-06-02 09:28:06] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:28:07] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:28:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:28:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:28:45] Packages changed: 
+[2022-06-02 09:28:45] Apps changed: 
+[2022-06-02 09:28:45] Change number 14998202->14998206, apps: 0/2, packages: 0/1
+[2022-06-02 09:28:45] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:28:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:28:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:28:46] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:28:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:28:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:30:05] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:30:05] Apps changed: 
+[2022-06-02 09:30:05] Change number 14998206->14998231, apps: 0/25, packages: 0/0
+[2022-06-02 09:30:05] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:30:06] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:30:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:32:47] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:32:47] Packages changed: 
+[2022-06-02 09:32:47] Apps changed: 361580=14998264,
+[2022-06-02 09:32:47] Change number 14998231->14998269, apps: 1/35, packages: 0/2
+[2022-06-02 09:32:47] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:32:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:32:48] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 09:32:48] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-06-02 09:32:48] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705708 bytes)
+
+
+[2022-06-02 09:32:58] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:32:58] Change number 14998269->14998269, apps: 0/0, packages: 0/0
+[2022-06-02 09:32:58] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:32:59] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:32:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:33:35] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:33:35] Packages changed: 
+[2022-06-02 09:33:35] Apps changed: 
+[2022-06-02 09:33:35] Change number 14998269->14998273, apps: 0/3, packages: 0/1
+[2022-06-02 09:33:35] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:33:36] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:33:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:34:27] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:34:28] Apps changed: 
+[2022-06-02 09:34:28] Change number 14998273->14998280, apps: 0/5, packages: 0/0
+[2022-06-02 09:34:28] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:34:28] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:34:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:34:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:34:45] Apps changed: 
+[2022-06-02 09:34:45] Change number 14998280->14998281, apps: 0/1, packages: 0/0
+[2022-06-02 09:34:45] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:34:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:34:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:36:07] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:36:07] Apps changed: 
+[2022-06-02 09:36:07] Change number 14998281->14998297, apps: 0/14, packages: 0/0
+[2022-06-02 09:36:07] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:36:08] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:36:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:36:26] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:36:26] Apps changed: 
+[2022-06-02 09:36:26] Change number 14998297->14998302, apps: 0/5, packages: 0/0
+[2022-06-02 09:36:26] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:36:27] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:36:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:36:44] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:36:44] Apps changed: 
+[2022-06-02 09:36:44] Change number 14998302->14998303, apps: 0/1, packages: 0/0
+[2022-06-02 09:36:44] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:36:45] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:36:45] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:36:59] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:36:59] Apps changed: 
+[2022-06-02 09:36:59] Change number 14998303->14998304, apps: 0/1, packages: 0/0
+[2022-06-02 09:36:59] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:37:00] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:37:00] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:37:16] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:37:16] Apps changed: 
+[2022-06-02 09:37:16] Change number 14998304->14998305, apps: 0/1, packages: 0/0
+[2022-06-02 09:37:16] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:37:17] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:37:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:37:36] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:37:36] Change number 14998305->14998305, apps: 0/0, packages: 0/0
+[2022-06-02 09:37:36] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:37:37] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:37:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:38:30] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:38:31] Apps changed: 
+[2022-06-02 09:38:31] Change number 14998305->14998309, apps: 0/4, packages: 0/0
+[2022-06-02 09:38:31] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:38:31] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:38:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:38:49] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:38:49] Apps changed: 
+[2022-06-02 09:38:49] Change number 14998309->14998310, apps: 0/1, packages: 0/0
+[2022-06-02 09:38:49] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:38:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:38:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:40:40] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:40:40] Apps changed: 
+[2022-06-02 09:40:40] Change number 14998310->14998321, apps: 0/8, packages: 0/0
+[2022-06-02 09:40:40] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:40:41] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:40:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:41:47] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:41:48] Apps changed: 
+[2022-06-02 09:41:48] Change number 14998321->14998326, apps: 0/5, packages: 0/0
+[2022-06-02 09:41:48] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:41:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:41:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:42:18] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:42:18] Apps changed: 
+[2022-06-02 09:42:18] Change number 14998326->14998333, apps: 0/6, packages: 0/0
+[2022-06-02 09:42:18] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:42:19] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:42:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:43:02] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:43:03] Apps changed: 
+[2022-06-02 09:43:03] Change number 14998333->14998337, apps: 0/4, packages: 0/0
+[2022-06-02 09:43:03] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:03] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:43:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:43:03] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:43:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:43:05] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:43:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:43:21] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:43:21] Apps changed: 
+[2022-06-02 09:43:21] Change number 14998337->14998338, apps: 0/1, packages: 0/0
+[2022-06-02 09:43:21] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:22] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:43:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:43:37] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:43:37] Apps changed: 
+[2022-06-02 09:43:37] Change number 14998338->14998339, apps: 0/1, packages: 0/0
+[2022-06-02 09:43:37] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:38] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:43:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:43:38] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:43:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:43:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:53:06] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:53:07] Packages changed: force all
+[2022-06-02 09:53:07] Apps changed: 443030=14998373,440900=14998364,
+[2022-06-02 09:53:07] Change number 14998339->14998406, apps: 2/53, packages: 0/0
+[2022-06-02 09:53:07] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:53:07] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:53:07] Downloaded 2 apps via HTTP, 29 KB (8 KB compressed)
+[2022-06-02 09:53:07] UpdatesJob: finished OK, apps updated 2 (29 KB), packages updated 0 (0 KB)
+[2022-06-02 09:53:07] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705708 bytes)
+
+
+[2022-06-02 09:53:29] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:53:29] Apps changed: 
+[2022-06-02 09:53:29] Change number 14998406->14998407, apps: 0/1, packages: 0/0
+[2022-06-02 09:53:29] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:53:30] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:53:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:53:30] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:53:30] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:53:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 09:53:32] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 09:53:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:53:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 09:53:50] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 09:53:50] Apps changed: 
+[2022-06-02 09:53:50] Change number 14998407->14998408, apps: 0/1, packages: 0/0
+[2022-06-02 09:53:50] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 09:53:51] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 09:53:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:05:47] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:05:47] Packages changed: force all
+[2022-06-02 10:05:47] Apps changed: 1118310=14998485,1670340=14998433,
+[2022-06-02 10:05:47] Change number 14998408->14998543, apps: 2/88, packages: 0/0
+[2022-06-02 10:05:47] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:05:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:05:48] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
+[2022-06-02 10:05:48] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 10:05:49] UpdatesJob: finished OK, apps updated 2 (17 KB), packages updated 0 (0 KB)
+[2022-06-02 10:05:49] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 10:06:12] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:06:12] Apps changed: 
+[2022-06-02 10:06:12] Change number 14998543->14998545, apps: 0/2, packages: 0/0
+[2022-06-02 10:06:12] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+
+
+[2022-06-02 10:09:52] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:09:52] Apps changed: 
+[2022-06-02 10:09:52] Change number 14998543->14998573, apps: 0/25, packages: 0/0
+[2022-06-02 10:09:52] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:09:53] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:09:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:16:33] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:16:33] Packages changed: force all
+[2022-06-02 10:16:33] Apps changed: 
+[2022-06-02 10:16:33] Change number 14998573->14998628, apps: 0/36, packages: 0/0
+[2022-06-02 10:16:33] Requesting 50 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:16:34] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:16:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:16:34] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:16:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:16:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:16:35] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:16:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:16:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:18:49] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:18:49] Packages changed: 
+[2022-06-02 10:18:49] Apps changed: 
+[2022-06-02 10:18:49] Change number 14998628->14998640, apps: 0/11, packages: 0/4
+[2022-06-02 10:18:49] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:18:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:18:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:18:50] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:18:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:18:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:18:51] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:18:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:18:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:19:50] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:19:51] Apps changed: 1670340=14998643,
+[2022-06-02 10:19:51] Change number 14998640->14998648, apps: 1/8, packages: 0/0
+[2022-06-02 10:19:51] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:19:51] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:19:51] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 10:19:52] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2022-06-02 10:19:52] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:19:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:19:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:19:52] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 10:21:54] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:21:54] Apps changed: 
+[2022-06-02 10:21:54] Change number 14998648->14998661, apps: 0/14, packages: 0/0
+[2022-06-02 10:21:54] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:21:55] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:21:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:21:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:21:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:21:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:24:38] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:24:39] Apps changed: 412680=14998672,906940=14998662,
+[2022-06-02 10:24:39] Change number 14998661->14998678, apps: 2/16, packages: 0/0
+[2022-06-02 10:24:39] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:24:40] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:24:40] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 10:24:40] UpdatesJob: finished OK, apps updated 2 (6 KB), packages updated 0 (0 KB)
+[2022-06-02 10:24:40] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:24:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:24:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:24:41] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 10:25:08] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:25:08] Apps changed: 
+[2022-06-02 10:25:08] Change number 14998678->14998682, apps: 0/4, packages: 0/0
+[2022-06-02 10:25:08] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:25:09] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:25:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:25:09] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:25:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:25:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:25:44] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:25:44] Apps changed: 
+[2022-06-02 10:25:44] Change number 14998682->14998687, apps: 0/5, packages: 0/0
+[2022-06-02 10:25:44] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:25:44] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:25:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:25:44] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:25:45] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:25:45] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:26:31] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:26:31] Packages changed: 
+[2022-06-02 10:26:31] Apps changed: 
+[2022-06-02 10:26:31] Change number 14998687->14998695, apps: 0/6, packages: 0/1
+[2022-06-02 10:26:31] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:26:32] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:26:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:26:32] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:26:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:26:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:27:49] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:27:50] Apps changed: 
+[2022-06-02 10:27:50] Change number 14998695->14998703, apps: 0/7, packages: 0/0
+[2022-06-02 10:27:50] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:27:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:27:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:27:50] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:27:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:27:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:29:27] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:29:27] Apps changed: 
+[2022-06-02 10:29:27] Change number 14998703->14998712, apps: 0/11, packages: 0/0
+[2022-06-02 10:29:28] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:29:28] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:29:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:29:28] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:29:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:29:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:29:49] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:29:49] Apps changed: 780290=14998719,
+[2022-06-02 10:29:49] Change number 14998712->14998727, apps: 1/15, packages: 0/0
+[2022-06-02 10:29:49] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:29:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:29:50] Downloaded 1 apps via HTTP, 12 KB (4 KB compressed)
+[2022-06-02 10:29:50] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2022-06-02 10:29:50] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:29:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:29:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:29:51] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 10:30:10] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:30:11] Apps changed: 
+[2022-06-02 10:30:11] Change number 14998727->14998759, apps: 0/32, packages: 0/0
+[2022-06-02 10:30:11] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:30:11] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:30:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:30:11] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:30:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:30:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:30:31] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:30:32] Apps changed: 
+[2022-06-02 10:30:32] Change number 14998759->14998761, apps: 0/1, packages: 0/0
+[2022-06-02 10:30:32] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:30:32] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:30:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:30:32] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:30:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:30:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 10:31:09] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:31:09] Apps changed: 108600=14998763,
+[2022-06-02 10:31:09] Change number 14998761->14998763, apps: 1/2, packages: 0/0
+[2022-06-02 10:31:09] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:31:10] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:31:10] Downloaded 1 apps via HTTP, 15 KB (4 KB compressed)
+[2022-06-02 10:31:10] UpdatesJob: finished OK, apps updated 1 (15 KB), packages updated 0 (0 KB)
+[2022-06-02 10:31:10] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:31:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:31:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:31:11] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 10:32:06] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 10:32:06] Apps changed: 380870=14998768,
+[2022-06-02 10:32:06] Change number 14998763->14998769, apps: 1/6, packages: 0/0
+[2022-06-02 10:32:06] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:32:06] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 10:32:07] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2022-06-02 10:32:07] UpdatesJob: finished OK, apps updated 1 (11 KB), packages updated 0 (0 KB)
+[2022-06-02 10:32:07] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 10:32:07] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 10:32:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 10:32:07] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705707 bytes)
+
+
+[2022-06-02 14:06:48] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:06:48] Packages changed: force all
+[2022-06-02 14:06:48] Apps changed: 394690=15000547,322330=15000537,343050=15000507,407480=15000464,1006710=15000268,728470=15000175,780290=14999955,774961=14999907,439660=14999716,376210=14999573,723390=14999491,1874900=14999478,1892930=14999410,1690800=14999228,726840=14999214,
+[2022-06-02 14:06:48] Change number 14998769->15000569, apps: 18/1020, packages: 0/0
+[2022-06-02 14:06:48] Requesting 68 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:06:49] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:06:49] Downloaded 10 apps via HTTP, 113 KB (34 KB compressed)
+[2022-06-02 14:06:49] Requesting 8 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 14:06:49] UpdatesJob: finished OK, apps updated 18 (145 KB), packages updated 0 (0 KB)
+[2022-06-02 14:06:49] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:06:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:06:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:06:52] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:06:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:06:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:06:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:06:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:06:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:04] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705041 bytes)
+[2022-06-02 14:07:20] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:24] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:27] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:29] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:32] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:36] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:36] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:38] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:41] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:44] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:44] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:46] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:48] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:48] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:50] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:53] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:53] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:07:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:07:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:07:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:02] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:05] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:12] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:14] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:19] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:22] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:24] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:29] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:30] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:33] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:35] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:38] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:41] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:43] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:44] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:47] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:49] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:51] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:53] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:53] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:08:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:08:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:08:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:00] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:00] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:00] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:03] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:06] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:08] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:10] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:13] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:14] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:17] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:19] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:21] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:24] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:27] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:29] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:31] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:33] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 14:09:37] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 14:09:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:09:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:35:58] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:35:58] Packages changed: force all
+[2022-06-02 14:35:58] Apps changed: 1105670=15000865,311260=15000850,728470=15000739,544550=15000636,
+[2022-06-02 14:35:58] Change number 15000569->15000875, apps: 4/230, packages: 0/0
+[2022-06-02 14:35:58] Requesting 54 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:35:58] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:35:59] Downloaded 2 apps via HTTP, 18 KB (5 KB compressed)
+[2022-06-02 14:35:59] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 14:35:59] UpdatesJob: finished OK, apps updated 4 (31 KB), packages updated 0 (0 KB)
+[2022-06-02 14:35:59] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705041 bytes)
+
+
+[2022-06-02 14:37:27] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:37:28] Apps changed: 
+[2022-06-02 14:37:28] Change number 15000875->15000885, apps: 0/10, packages: 0/0
+[2022-06-02 14:37:28] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:37:28] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:37:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:38:12] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:38:13] Apps changed: 
+[2022-06-02 14:38:13] Change number 15000885->15000886, apps: 0/1, packages: 0/0
+[2022-06-02 14:38:13] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:38:13] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:38:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:41:04] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:41:04] Packages changed: 
+[2022-06-02 14:41:04] Apps changed: 
+[2022-06-02 14:41:04] Change number 15000886->15000911, apps: 0/19, packages: 0/4
+[2022-06-02 14:41:04] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:41:05] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:41:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:41:28] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:41:29] Apps changed: 
+[2022-06-02 14:41:29] Change number 15000911->15000915, apps: 0/4, packages: 0/0
+[2022-06-02 14:41:29] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:41:29] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:41:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:41:55] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:41:55] Apps changed: 
+[2022-06-02 14:41:55] Change number 15000915->15000916, apps: 0/1, packages: 0/0
+[2022-06-02 14:41:55] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:41:56] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:41:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:44:19] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:44:19] Packages changed: 
+[2022-06-02 14:44:19] Apps changed: 
+[2022-06-02 14:44:19] Change number 15000916->15000940, apps: 0/19, packages: 0/4
+[2022-06-02 14:44:19] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:44:20] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:44:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:44:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:44:45] Packages changed: 
+[2022-06-02 14:44:45] Apps changed: 
+[2022-06-02 14:44:45] Change number 15000940->15000944, apps: 0/3, packages: 0/1
+[2022-06-02 14:44:45] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:44:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:44:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:45:03] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:45:03] Change number 15000944->15000944, apps: 0/0, packages: 0/0
+[2022-06-02 14:45:03] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:45:04] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:45:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:45:24] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:45:24] Apps changed: 
+[2022-06-02 14:45:24] Change number 15000944->15000949, apps: 0/5, packages: 0/0
+[2022-06-02 14:45:24] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:45:25] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:45:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:46:17] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:46:17] Apps changed: 
+[2022-06-02 14:46:17] Change number 15000949->15000955, apps: 0/6, packages: 0/0
+[2022-06-02 14:46:17] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:46:17] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:46:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:47:20] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:47:21] Apps changed: 
+[2022-06-02 14:47:21] Change number 15000955->15000962, apps: 0/6, packages: 0/0
+[2022-06-02 14:47:21] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:47:21] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:47:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:48:03] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:48:04] Apps changed: 530870=15000968,
+[2022-06-02 14:48:04] Change number 15000962->15000970, apps: 1/9, packages: 0/0
+[2022-06-02 14:48:04] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:48:04] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:48:04] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 14:48:04] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-06-02 14:48:05] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705041 bytes)
+
+
+[2022-06-02 14:48:41] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:48:42] Packages changed: 
+[2022-06-02 14:48:42] Apps changed: 
+[2022-06-02 14:48:42] Change number 15000970->15000978, apps: 0/6, packages: 0/1
+[2022-06-02 14:48:42] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:48:42] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:48:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:48:59] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:48:59] Apps changed: 489630=15000980,
+[2022-06-02 14:48:59] Change number 15000978->15000981, apps: 1/3, packages: 0/0
+[2022-06-02 14:48:59] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:48:59] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:49:00] Downloaded 1 apps via HTTP, 17 KB (5 KB compressed)
+[2022-06-02 14:49:00] UpdatesJob: finished OK, apps updated 1 (17 KB), packages updated 0 (0 KB)
+[2022-06-02 14:49:00] Starting async write c:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705195 bytes)
+
+
+[2022-06-02 14:50:45] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:50:45] Packages changed: 
+[2022-06-02 14:50:45] Apps changed: 
+[2022-06-02 14:50:45] Change number 15000981->15000997, apps: 0/14, packages: 0/3
+[2022-06-02 14:50:45] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:50:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:50:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:51:44] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:51:44] Packages changed: 
+[2022-06-02 14:51:44] Apps changed: 
+[2022-06-02 14:51:44] Change number 15000997->15001001, apps: 0/3, packages: 0/1
+[2022-06-02 14:51:44] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:51:45] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:51:45] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:53:00] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:53:00] Apps changed: 
+[2022-06-02 14:53:00] Change number 15001001->15001011, apps: 0/9, packages: 0/0
+[2022-06-02 14:53:00] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:53:01] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:53:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:53:36] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:53:36] Packages changed: 
+[2022-06-02 14:53:36] Apps changed: 
+[2022-06-02 14:53:36] Change number 15001011->15001018, apps: 0/6, packages: 0/3
+[2022-06-02 14:53:36] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:53:37] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:53:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:54:18] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:54:18] Apps changed: 
+[2022-06-02 14:54:18] Change number 15001018->15001028, apps: 0/10, packages: 0/0
+[2022-06-02 14:54:18] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:54:19] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:54:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:55:08] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:55:08] Packages changed: 
+[2022-06-02 14:55:08] Apps changed: 
+[2022-06-02 14:55:08] Change number 15001028->15001032, apps: 0/4, packages: 0/1
+[2022-06-02 14:55:08] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:55:09] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:55:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:55:47] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:55:48] Packages changed: 
+[2022-06-02 14:55:48] Apps changed: 
+[2022-06-02 14:55:48] Change number 15001032->15001039, apps: 0/4, packages: 0/1
+[2022-06-02 14:55:48] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:55:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:55:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:56:56] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:56:56] Apps changed: 
+[2022-06-02 14:56:56] Change number 15001039->15001048, apps: 0/8, packages: 0/0
+[2022-06-02 14:56:57] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:56:57] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:56:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:57:47] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:57:47] Apps changed: 
+[2022-06-02 14:57:47] Change number 15001048->15001055, apps: 0/6, packages: 0/0
+[2022-06-02 14:57:47] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:57:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:57:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:58:34] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:58:34] Apps changed: 
+[2022-06-02 14:58:34] Change number 15001055->15001064, apps: 0/7, packages: 0/0
+[2022-06-02 14:58:34] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:58:35] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:58:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 14:59:29] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 14:59:29] Packages changed: 
+[2022-06-02 14:59:29] Apps changed: 
+[2022-06-02 14:59:29] Change number 15001064->15001075, apps: 0/10, packages: 0/3
+[2022-06-02 14:59:30] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 14:59:30] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 14:59:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 15:00:27] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 15:00:28] Apps changed: 1892930=15001080,
+[2022-06-02 15:00:28] Change number 15001075->15001088, apps: 1/10, packages: 0/0
+[2022-06-02 15:00:28] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 15:00:28] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 15:00:28] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 15:00:29] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2022-06-02 15:00:29] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705195 bytes)
+
+
+[2022-06-02 15:00:46] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 15:00:46] Packages changed: 
+[2022-06-02 15:00:46] Apps changed: 
+[2022-06-02 15:00:46] Change number 15001088->15001092, apps: 0/2, packages: 0/3
+[2022-06-02 15:00:46] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 15:00:47] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 15:00:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 15:00:56] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 15:00:57] Change number 15001092->15001092, apps: 0/0, packages: 0/0
+[2022-06-02 15:00:57] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 15:00:57] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 15:00:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 15:01:46] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 15:01:46] Apps changed: 
+[2022-06-02 15:01:46] Change number 15001092->15001102, apps: 0/6, packages: 0/0
+[2022-06-02 15:01:47] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 15:01:47] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 15:01:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 15:04:42] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 15:04:42] Apps changed: 
+[2022-06-02 15:04:42] Change number 15001102->15001125, apps: 0/20, packages: 0/0
+[2022-06-02 15:04:42] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 15:04:43] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 15:04:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 16:00:28] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 16:00:29] Packages changed: force all
+[2022-06-02 16:00:29] Apps changed: 489630=15001703,1892930=15001624,574180=15001595,1141420=15001593,1936830=15001557,1105670=15001536,1066780=15001521,530870=15001269,1782380=15001199,
+[2022-06-02 16:00:29] Change number 15001125->15001792, apps: 9/443, packages: 0/0
+[2022-06-02 16:00:29] Requesting 59 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:29] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 16:00:29] Downloaded 3 apps via HTTP, 46 KB (14 KB compressed)
+[2022-06-02 16:00:29] Requesting 6 apps, 0 packages (full data, 1024 prev attempts)
+[2022-06-02 16:00:30] UpdatesJob: finished OK, apps updated 9 (67 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:30] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:30] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:34] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:37] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:45] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705421 bytes)
+[2022-06-02 16:00:48] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:48] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:52] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:54] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:54] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:54] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:56] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:56] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:00:59] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:00:59] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:00:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:01] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:05] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:08] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:10] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:16] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:22] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:24] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:29] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:34] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:40] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:01:53] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:01:54] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:01:54] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:12] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:16] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:19] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:22] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:26] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:29] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:32] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:38] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:40] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:42] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:52] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:55] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:02:58] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:02:58] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:02:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:03:01] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:03:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:03:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:03:05] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:03:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:03:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:03:10] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:03:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:03:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:03:13] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:03:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:03:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:03:16] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:03:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:03:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-06-02 16:07:57] RequestAppInfoUpdate: AppIDs 7
+[2022-06-02 16:07:57] Packages changed: force all
+[2022-06-02 16:07:57] Apps changed: 996560=15001859,
+[2022-06-02 16:07:57] Change number 15001792->15001859, apps: 1/43, packages: 0/0
+[2022-06-02 16:07:58] Requesting 51 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:07:58] Requested 49 app access tokens, 0 received, 49 denied
+[2022-06-02 16:07:58] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2022-06-02 16:07:58] UpdatesJob: finished OK, apps updated 1 (8 KB), packages updated 0 (0 KB)
+[2022-06-02 16:07:58] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:07:58] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:07:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:08:04] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:08:04] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:08:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:08:06] RequestAppInfoUpdate: AppIDs 108600
+[2022-06-02 16:08:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-06-02 16:08:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-06-02 16:08:09] Starting async write C:\Users\Tudor\Desktop\steamd\steamcmd/appcache/appinfo.vdf (3705421 bytes)
